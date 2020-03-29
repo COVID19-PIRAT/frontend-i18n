@@ -37,6 +37,36 @@
           <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="a83bea1e8cfea954b8fdcbb7e74a1666daa5991f" datatype="html">
+        <source>PIRAT - gemeinsam auf Kurs gegen Corona!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8f372486469891f0a8c662ee5f30bdf823deac26" datatype="html">
+        <source>PIRAT sorgt dafür, dass personelle und materielle Resourcen aus Forschungslaboren, die momentan
+            brachliegen, für die Corona-Diagnostik genutzt werden.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fcef4f851bab72289e42323aa3fc7c1d59f04345" datatype="html">
+        <source>Damit schneller mehr Tests durchgeführt werden und niemand mehr tagelang warten muss, um getestet zu
+            werden. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5887becc238476ec4fb77146fc53e2ecd1fba94a" datatype="html">
+        <source>Lassen Sie uns gemeinsam Corona unter Kontrolle bekommen!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="menu_ontact" datatype="html">
         <source>Kontakt</source>
         <context-group purpose="location">

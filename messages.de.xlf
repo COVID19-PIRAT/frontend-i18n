@@ -55,7 +55,35 @@
       </trans-unit><trans-unit id="searchResource" datatype="html">
         <source>Suchanfrage</source><target state="final">Suchanfrage</target>
         
-      <context-group purpose="location"><context context-type="sourcefile">src/app/home/home.component.html</context><context context-type="linenumber">10</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context><context context-type="linenumber">3</context></context-group></trans-unit><trans-unit id="searchPersonal" datatype="html">
+      <context-group purpose="location"><context context-type="sourcefile">src/app/home/home.component.html</context><context context-type="linenumber">10</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context><context context-type="linenumber">3</context></context-group></trans-unit><trans-unit id="a83bea1e8cfea954b8fdcbb7e74a1666daa5991f" datatype="html">
+        <source>PIRAT - gemeinsam auf Kurs gegen Corona!</source><target state="final">PIRAT - gemeinsam auf Kurs gegen Corona!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit><trans-unit id="8f372486469891f0a8c662ee5f30bdf823deac26" datatype="html">
+        <source>PIRAT sorgt dafür, dass personelle und materielle Resourcen aus Forschungslaboren, die momentan
+            brachliegen, für die Corona-Diagnostik genutzt werden.</source><target state="final">PIRAT sorgt dafür, dass personelle und materielle Resourcen aus Forschungslaboren, die momentan
+            brachliegen, für die Corona-Diagnostik genutzt werden.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit><trans-unit id="fcef4f851bab72289e42323aa3fc7c1d59f04345" datatype="html">
+        <source>Damit schneller mehr Tests durchgeführt werden und niemand mehr tagelang warten muss, um getestet zu
+            werden. </source><target state="final">Damit schneller mehr Tests durchgeführt werden und niemand mehr tagelang warten muss, um getestet zu
+            werden. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit><trans-unit id="5887becc238476ec4fb77146fc53e2ecd1fba94a" datatype="html">
+        <source>Lassen Sie uns gemeinsam Corona unter Kontrolle bekommen!</source><target state="final">Lassen Sie uns gemeinsam Corona unter Kontrolle bekommen!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit><trans-unit id="searchPersonal" datatype="html">
         <source>Suche nach Personal</source><target state="final">Suche nach Personal</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
