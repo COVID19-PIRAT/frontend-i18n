@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="menu_about" datatype="html">
         <source>Über uns</source>
-        <target state="new">Über uns</target>
+        <target state="translated">About us</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">21</context>
@@ -73,30 +73,36 @@
         <target state="new">Suchanfrage stellen</target>
         <context-group purpose="location"><context context-type="sourcefile">src/app/home/home.component.html</context><context context-type="linenumber">10</context></context-group>
         <context-group purpose="location"><context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context><context context-type="linenumber">3</context></context-group>
-      </trans-unit><trans-unit id="a83bea1e8cfea954b8fdcbb7e74a1666daa5991f" datatype="html">
-        <source>PIRAT - gemeinsam auf Kurs gegen Corona!</source><target state="new">PIRAT - gemeinsam auf Kurs gegen Corona!</target>
+      </trans-unit>
+      <trans-unit id="a83bea1e8cfea954b8fdcbb7e74a1666daa5991f" datatype="html">
+        <source>PIRAT - gemeinsam auf Kurs gegen Corona!</source>
+        <target state="new">PIRAT - gemeinsam auf Kurs gegen Corona!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
-      </trans-unit><trans-unit id="8f372486469891f0a8c662ee5f30bdf823deac26" datatype="html">
-        <source>PIRAT sorgt dafür, dass personelle und materielle Resourcen aus Forschungslaboren, die momentan
-            brachliegen, für die Corona-Diagnostik genutzt werden.</source><target state="new">PIRAT sorgt dafür, dass personelle und materielle Resourcen aus Forschungslaboren, die momentan
+      </trans-unit>
+      <trans-unit id="8f372486469891f0a8c662ee5f30bdf823deac26" datatype="html">
+        <source>PIRAT sorgt dafür, dass personelle und materielle Resourcen aus Forschungslaboren, die momentan brachliegen, für die Corona-Diagnostik genutzt werden.</source>
+        <target state="new">PIRAT sorgt dafür, dass personelle und materielle Resourcen aus Forschungslaboren, die momentan
             brachliegen, für die Corona-Diagnostik genutzt werden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">21</context>
         </context-group>
-      </trans-unit><trans-unit id="fcef4f851bab72289e42323aa3fc7c1d59f04345" datatype="html">
-        <source>Damit schneller mehr Tests durchgeführt werden und niemand mehr tagelang warten muss, um getestet zu
-            werden. </source><target state="new">Damit schneller mehr Tests durchgeführt werden und niemand mehr tagelang warten muss, um getestet zu
+      </trans-unit>
+      <trans-unit id="fcef4f851bab72289e42323aa3fc7c1d59f04345" datatype="html">
+        <source>Damit schneller mehr Tests durchgeführt werden und niemand mehr tagelang warten muss, um getestet zu werden.</source>
+        <target state="new">Damit schneller mehr Tests durchgeführt werden und niemand mehr tagelang warten muss, um getestet zu
             werden. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">23</context>
         </context-group>
-      </trans-unit><trans-unit id="5887becc238476ec4fb77146fc53e2ecd1fba94a" datatype="html">
-        <source>Lassen Sie uns gemeinsam Corona unter Kontrolle bekommen!</source><target state="new">Lassen Sie uns gemeinsam Corona unter Kontrolle bekommen!</target>
+      </trans-unit>
+      <trans-unit id="5887becc238476ec4fb77146fc53e2ecd1fba94a" datatype="html">
+        <source>Lassen Sie uns gemeinsam Corona unter Kontrolle bekommen!</source>
+        <target state="new">Lassen Sie uns gemeinsam Corona unter Kontrolle bekommen!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">25</context>
@@ -253,10 +259,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="70766de33ff31c49bad5849f12abd7b68994fd31" datatype="html">
-        <source>
-        Dürfen die Kontaktdaten online veröffentlicht werden? Falls nicht, können Suchende über ein Kontaktformular mit
-        Ihnen Kontakt aufnehmen.
-      </source>
+        <source>Dürfen die Kontaktdaten online veröffentlicht werden? Falls nicht, können Suchende über ein Kontaktformular mit Ihnen Kontakt aufnehmen.</source>
         <target state="translated">Is it allowed to publish your contact data? If not, we will provide a contact form that can be used to reach out to you.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
@@ -355,11 +358,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="_recaptchaNote" datatype="html">
-        <source>
-    reCAPTCHA von Google verwendet Cookies, um zu speichern, dass Sie das Captcha bestätigt haben. Die
-    Zustimmung zu diesem Cookie ist von unserer Seite für das Anlegen eines Angebotes notwendig. Sie können
-    den Cookie im Nachhinein selbstständig wieder löschen.
-  </source>
+        <source>reCAPTCHA von Google verwendet Cookies, um zu speichern, dass Sie das Captcha bestätigt haben. Die Zustimmung zu diesem Cookie ist von unserer Seite für das Anlegen eines Angebotes notwendig. Sie können den Cookie im Nachhinein selbstständig wieder löschen.</source>
         <target state="new">
     reCAPTCHA von Google verwendet Cookies, um zu speichern, dass Sie das Captcha bestätigt haben. Die
     Zustimmung zu diesem Cookie ist von unserer Seite für das Anlegen eines Angebotes notwendig. Sie können
