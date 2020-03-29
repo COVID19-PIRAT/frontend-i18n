@@ -360,6 +360,22 @@
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">221</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="responsiblePerson" datatype="html">
         <source>Verantwortliche Person</source>
@@ -373,6 +389,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="phoneNumbe" datatype="html">
@@ -473,6 +493,93 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about_whatIsPIRAT" datatype="html">
+        <source>Was ist PIRAT?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about_p1" datatype="html">
+        <source>
+          PIRAT (Pandemic Important Resource Allocation Tool) ist ein Tool für die Erfassung und effiziente Verteilung
+          von notwendigen Ressourcen in Ausnahmesituation wie z.B. einer Pandemie.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about_p2" datatype="html">
+        <source>
+          Wir wollen die Erfassung und Verteilung von notwendigen medizinischen Hilfsmitteln, aber auch Manpower,
+          verbessern. Viele Labore an Universitäten sind gut ausgestattet, um diagnostische Tests auf SARS-CoV-2
+          durchzuführen, es fehlt hier allerdings die Berechtigung, diese Tests durchzuführen, sodass keine
+          Patientenproben analysiert werden können. Offizielle Testlabore bräuchten die Ausstattung dieser Labore, da
+          die Nachfrage an SARS-CoV-2-Tests ihre Kapazitäten übersteigt, aber diesen Austausch gibt es bisher
+          nicht.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about_p3" datatype="html">
+        <source>
+          Ziel dieser Seite ist es deshalb, Testlabore mit Einrichtungen wie Universitäten zu vernetzen, die Geräte,
+          Verbrauchsmaterialien und auch qualifiziertes Personal zur Unterstützung bei der Durchführung von
+          SARS-CoV-2-Tests zur Verfügung stellen könnten. Dabei können Universitäten ihre freien Ressourcen in unsere
+          Datenbank eintragen und werden benachrichtigt, sobald eines der umliegenden Testlabore diese Ressourcen
+          benötigt. Hierdurch können die Testkapazitäten erweitert werden, sodass Verdachtsfälle schneller getestet
+          werden können.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about_p4" datatype="html">
+        <source>
+          Weiter könnte man auch schon bei den Patientenabstrichen und dem Transport der Proben zu den Testlaboren
+          ansetzen und hier mit zusätzlicher Manpower, die von den Universitäten akquiriert wird, dafür sorgen, dass
+          Verdachtsfälle rasch getestet werden können. Hier ist eine enge Zusammenarbeit mit den Gesundheitsämtern
+          vorgesehen.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about_p5" datatype="html">
+        <source>
+          Das Tool ist selbstverständlich auch erweiterbar auf sonstige Verbrauchsmaterialien, die an Krankenhäusern
+          und im Rettungsdienst oder der Krankenpflege momentan Mangelware sind (z.B. Handschuhe, Masken, Schutzbrillen,
+          Desinfektionsmittel. Erste Versuche von Spenden von Universitäten an Krankenhäuser laufen hier derzeit sehr
+          unkoordiniert ab) und weitere Manpower im Sinne von Krankenhaus- oder Rettungsdienstpersonal.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about_p6" datatype="html">
+        <source>
+          Zusammenfassend herrscht aktuell das Problem vor, dass Ressourcen in Form von Personal, Geräten und
+          Verbrauchsmaterial vorhanden sind, die an anderer Stelle gebraucht werden, aber kein Austausch zwischen den
+          entsprechenden Stellen stattfindet. Diese Situation wird durch unser Tool erheblich verbessert.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about_whoIsBehindPIRAT" datatype="html">
+        <source>Wer steht hinter PIRAT?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit>
       <trans-unit id="researchGroup" datatype="html">
@@ -722,6 +829,85 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">219</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c81133406fe390838ce1a61fa6f692e2121ffe78" datatype="html">
+        <source>
+          Wenn Sie Fragen, Wünsche oder Anregungen haben, freuen wir uns, wenn Sie Kontakt mit uns aufnehmen.
+          Schreiben Sie uns eine Email an <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> oder benutzen Sie
+          das Kontaktformular, wir melden uns schnellstmöglich per E-Mail oder Telefon bei Ihnen!
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="12b1acff5a98f083a535d1d3c3946d6a885ba1a0" datatype="html">
+        <source>
+            Vielen Dank für Ihre Kontaktanfrage, wir werden uns gleich bei Ihnen melden.
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="31867f3fa2c5b318110b602e0ba700190f8cf61f" datatype="html">
+        <source>
+              Rückruf anfragen
+            </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="name" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="phoneNumber" datatype="html">
+        <source>Telefonnummer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="topic" datatype="html">
+        <source>Thema</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="645308f2bea0e0f9127ec86fbf72bc67c74079c5" datatype="html">
+        <source>
+                Anmerkungen
+              </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+        <note priority="1" from="description">comments</note>
+      </trans-unit>
+      <trans-unit id="8855dc6f5dc587441c6514f584021d59a612161b" datatype="html">
+        <source>
+                Hiermit versichere ich, die <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+                gelesen zu haben und stimme dieser zu.
+              </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sendRequest" datatype="html">
+        <source>
+                Anfrage abschicken
+              </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">87</context>
         </context-group>
       </trans-unit>
     </body>
