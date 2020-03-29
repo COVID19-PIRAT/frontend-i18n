@@ -163,6 +163,10 @@
           <context context-type="linenumber">34</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">47</context>
         </context-group>
@@ -180,6 +184,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">111</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
@@ -206,6 +214,18 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">105</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">159</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">211</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
@@ -272,6 +292,10 @@
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="institution" datatype="html">
         <source>Institution</source>
@@ -284,8 +308,20 @@
           <context context-type="linenumber">20</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="requiredField" datatype="html">
@@ -361,6 +397,22 @@
           <context context-type="linenumber">221</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">28</context>
         </context-group>
@@ -383,12 +435,24 @@
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">25</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="emailAddress" datatype="html">
         <source>E-Mail Adresse</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">37</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
@@ -589,6 +653,10 @@
           <context context-type="linenumber">24</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">26</context>
         </context-group>
@@ -598,6 +666,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">99</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
@@ -641,6 +713,14 @@
           <context context-type="linenumber">165</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">226</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">228</context>
         </context-group>
@@ -671,6 +751,14 @@
           <context context-type="linenumber">141</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">145</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">197</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">112</context>
         </context-group>
@@ -688,6 +776,14 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">145</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">204</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
@@ -720,6 +816,14 @@
           <context context-type="linenumber">153</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">166</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">218</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">137</context>
         </context-group>
@@ -739,24 +843,82 @@
           <context context-type="linenumber">169</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="qualification" datatype="html">
-        <source>Qualifikation</source>
+      <trans-unit id="8442c5ce365ba0e84471bd518a57bd49f9b6d966" datatype="html">
+        <source>
+        Das Angebot wurde erfasst. Auf dieser Seite können Sie Ihre Daten einsehen. Eine Bestätigung
+        wurde Ihnen auch per Email zugeschickt.
+      </source>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
-          <context context-type="linenumber">5</context>
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">11</context>
         </context-group>
+      </trans-unit>
+      <trans-unit id="6f19d93ff5365931225e07b8e959a7e6f25a0180" datatype="html">
+        <source>
+          Mit diesem Link kommen Sie auf diese Seite, um Ihr Angebot einsehen zu können. Bitte bewahren Sie ihn auf.
+          <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+          Bitte kontaktieren Sie uns via Email mit Angabe dieses Links, um ihr Angebot zu löschen oder zu bearbeiten.
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="phoneNumber" datatype="html">
+        <source>
+            Telefonnummer
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="address" datatype="html">
+        <source>
+            Adresse
+          </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e48b1c095c7d61efcbb8f523076bdf3a3298c71b" datatype="html">
+        <source>
+              Qualifikation
+            </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+        <note priority="1" from="description">@qualification</note>
       </trans-unit>
       <trans-unit id="_questionExperienceWithPCR" datatype="html">
         <source>Haben Sie Erfahrung in der Durchführung von PCR und Real-Time PCR?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">45</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="notes_s1s" datatype="html">
+      <trans-unit id="comments_s1s" datatype="html">
         <source>
-      Anmerkungen (z.B. S1 oder S2-Unterweisung vorhanden, medizinische Qualifikation zur Abstrichentnahme vorhanden)
-    </source>
+              Anmerkungen (z.B. S1 oder S2-Unterweisung vorhanden, medizinische Qualifikation zur Abstrichentnahme vorhanden)
+            </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">116</context>
+        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">66</context>
@@ -764,15 +926,29 @@
       </trans-unit>
       <trans-unit id="_declarationVoluntaryWork" datatype="html">
         <source>
-         Hiermit wird bestätigt, dass der Helfer die Tätigkeit ehrenamtlich außerhalb der Arbeitszeiten ausführen wird.
-      </source>
+              Hiermit wird bestätigt, dass der Helfer die Tätigkeit ehrenamtlich außerhalb der Arbeitszeiten ausführt.
+            </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">74</context>
         </context-group>
       </trans-unit>
       <trans-unit id="category" datatype="html">
-        <source>Kategorie</source>
+        <source>
+              Kategorie
+            </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">183</context>
+        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">89</context>
@@ -783,7 +959,17 @@
         </context-group>
       </trans-unit>
       <trans-unit id="exactName" datatype="html">
-        <source>Exakte Materialbezeichnung</source>
+        <source>
+              Exakte Materialbezeichnung
+            </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
+          <context context-type="linenumber">190</context>
+        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">103</context>
@@ -791,6 +977,13 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="qualification" datatype="html">
+        <source>Qualifikation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
+          <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2dffc079c2b15adcc30e3cbb23f8f4d84ac397f7" datatype="html">
@@ -831,6 +1024,52 @@
           <context context-type="linenumber">219</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="9862c0fe46a72d8e8defb19e4f8f7e903bbacf7b" datatype="html">
+        <source>
+    Vielen Dank für Ihre Nachricht. Sie wurde an den Anbieter übermittelt, er wird sich direkt mit Ihnen in Verbindung setzen.
+  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1b3806ced266a7d811ee673e3cf92f28d46acdc2" datatype="html">
+        <source>
+      Die Kontaktdaten des Anbieters sind nicht öffentlich. Nutzen Sie dieses Kontaktformular, um dem Anbieter eine
+      Nachricht zu hinterlassen.
+    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="name" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="message" datatype="html">
+        <source>Nachricht</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sendMessage" datatype="html">
+        <source>
+        Nachricht absenden
+      </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="c81133406fe390838ce1a61fa6f692e2121ffe78" datatype="html">
         <source>
           Wenn Sie Fragen, Wünsche oder Anregungen haben, freuen wir uns, wenn Sie Kontakt mit uns aufnehmen.
@@ -858,20 +1097,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">22</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="name" datatype="html">
-        <source>Name</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
-          <context context-type="linenumber">27</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="phoneNumber" datatype="html">
-        <source>Telefonnummer</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
-          <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="topic" datatype="html">
@@ -908,6 +1133,13 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="404PageNotFound" datatype="html">
+        <source>404 Seite nicht gefunden</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/not-found/not-found.component.html</context>
+          <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit>
     </body>
