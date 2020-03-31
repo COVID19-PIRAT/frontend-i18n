@@ -61,7 +61,7 @@
           entstand in Zusammenarbeit mit</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
-          <context context-type="linenumber">25</context>
+          <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="menu_contact" datatype="html">
@@ -341,6 +341,14 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
+          <context context-type="linenumber">34</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
@@ -1009,6 +1017,13 @@
           <context context-type="linenumber">173</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="helper" datatype="html">
+        <source>🗑️</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="qualification" datatype="html">
         <source>Qualifikation</source>
         <context-group purpose="location">
@@ -1159,6 +1174,34 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/not-found/not-found.component.html</context>
           <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="devices" datatype="html">
+        <source>Devices</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="consumables" datatype="html">
+        <source>Verbrauchsmaterial</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="persons" datatype="html">
+        <source>Personen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="helpers" datatype="html">
+        <source>Helfer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
+          <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit>
     </body>
