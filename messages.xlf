@@ -1018,7 +1018,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="helper" datatype="html">
-        <source><x id="START_TAG_BUTTON" ctype="x-button" equiv-text="&lt;button&gt;"/>🗑️<x id="CLOSE_TAG_BUTTON" ctype="x-button" equiv-text="&lt;/button&gt;"/> Helfer</source>
+        <source>Helfer</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1031,6 +1031,13 @@
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="device" datatype="html">
+        <source>Gerät</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="2dffc079c2b15adcc30e3cbb23f8f4d84ac397f7" datatype="html">
         <source>
       Anmerkungen
@@ -1040,6 +1047,13 @@
           <context context-type="linenumber">147</context>
         </context-group>
         <note priority="1" from="description">comments</note>
+      </trans-unit>
+      <trans-unit id="consumable" datatype="html">
+        <source>Verbrauchsmaterial</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="selectUnit" datatype="html">
         <source>Einheit auswählen</source>

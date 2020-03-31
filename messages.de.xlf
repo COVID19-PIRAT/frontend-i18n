@@ -416,6 +416,12 @@
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
+      </trans-unit><trans-unit id="device" datatype="html">
+        <source>Gerät</source><target state="final">Gerät</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
       </trans-unit><trans-unit id="researchGroup" datatype="html">
         <source>
       Forschungsgruppe
@@ -472,7 +478,7 @@
         
         
       <context-group purpose="location"><context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context><context context-type="linenumber">138</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context><context context-type="linenumber">190</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context><context context-type="linenumber">103</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context><context context-type="linenumber">173</context></context-group></trans-unit><trans-unit id="helper" datatype="html">
-        <source><x id="START_TAG_BUTTON" ctype="x-button" equiv-text="&lt;button>"/>🗑️<x id="CLOSE_TAG_BUTTON" ctype="x-button" equiv-text="&lt;/button>"/> Helfer</source><target state="final"><x id="START_TAG_BUTTON" ctype="x-button" equiv-text="&lt;button>"/>🗑️<x id="CLOSE_TAG_BUTTON" ctype="x-button" equiv-text="&lt;/button>"/> Helfer</target>
+        <source>Helfer</source><target state="final">Helfer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">2</context>
@@ -548,6 +554,12 @@
           <context context-type="linenumber">147</context>
         </context-group>
         <note priority="1" from="description">comments</note>
+      </trans-unit><trans-unit id="consumable" datatype="html">
+        <source>Verbrauchsmaterial</source><target state="final">Verbrauchsmaterial</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
       </trans-unit><trans-unit id="selectUnit" datatype="html">
         <source>Einheit auswählen</source><target state="final">Einheit auswählen</target>
         <context-group purpose="location">
