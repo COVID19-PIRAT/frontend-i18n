@@ -67,10 +67,10 @@
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
-      </trans-unit><trans-unit id="4e81780c7cff059eeb7ff0248ac311a4114ab2ce" datatype="html">
-        <source>Aktuell haben wir folgende Geräte, Verbrauchsmaterial und Zusagen von
-          Hilfspersonen (Stand 31.03.2020, 16:00):
-        </source><target state="translated">Currently the following devices, consumables und people who want to help have been offered (as of 31.03.2020, 16:00):
+      </trans-unit><trans-unit id="c9ff29c33d4176360bdcbd22d41c95af16bef07d" datatype="html">
+        <source>Aktuell haben wir folgende Geräte, Verbrauchsmaterialien und Zusagen von
+          Hilfspersonen (Stand <x id="INTERPOLATION" equiv-text="{{ statistics.date }}"/>):
+        </source><target state="translated">Currently the following devices, consumables and people who want to help have been offered (as of <x id="INTERPOLATION" equiv-text="{{ statistics.date }}"/>):
         </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
@@ -830,27 +830,18 @@
       <trans-unit id="consumables" datatype="html">
         <source>Verbrauchsmaterial</source>
         <target state="translated">Consumables</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
-          <context context-type="linenumber">27</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/statistics/statistics.component.html</context><context context-type="linenumber">20</context></context-group></trans-unit>
       <trans-unit id="persons" datatype="html">
         <source>Personen</source>
         <target state="translated">People</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
-          <context context-type="linenumber">43</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/statistics/statistics.component.html</context><context context-type="linenumber">35</context></context-group></trans-unit>
       <trans-unit id="helpers" datatype="html">
         <source>Helfer</source>
         <target state="translated">Helpers</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
-          <context context-type="linenumber">46</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/statistics/statistics.component.html</context><context context-type="linenumber">38</context></context-group></trans-unit>
       <trans-unit id="comments" datatype="html">
         <source>Anmerkungen</source>
         <target state="translated">Comments</target>
