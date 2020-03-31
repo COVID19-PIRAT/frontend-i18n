@@ -56,12 +56,21 @@
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="4e81780c7cff059eeb7ff0248ac311a4114ab2ce" datatype="html">
+        <source>Aktuell haben wir folgende Geräte, Verbrauchsmaterial und Zusagen von
+          Hilfspersonen (Stand 31.03.2020, 16:00):
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="a33d6e8abc859e8f75f09cb373a292fa9d59d0e2" datatype="html">
         <source> Dieses Projekt
           entstand in Zusammenarbeit mit</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
-          <context context-type="linenumber">28</context>
+          <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit>
       <trans-unit id="menu_contact" datatype="html">
