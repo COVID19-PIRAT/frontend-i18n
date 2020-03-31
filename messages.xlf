@@ -1018,7 +1018,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="helper" datatype="html">
-        <source>🗑️</source>
+        <source><x id="START_TAG_BUTTON" ctype="x-button" equiv-text="&lt;button&gt;"/>🗑️<x id="CLOSE_TAG_BUTTON" ctype="x-button" equiv-text="&lt;/button&gt;"/> Helfer</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1177,7 +1177,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="devices" datatype="html">
-        <source>Devices</source>
+        <source>Geräte</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
           <context context-type="linenumber">5</context>
