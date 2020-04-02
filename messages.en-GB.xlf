@@ -789,7 +789,7 @@
       der Nähe von <x id="INTERPOLATION_1" equiv-text="{{ data.postalCode }}"/> zur Verfügung stehen.
     </source><target state="translated">
       Thank you for your interest. We will send you a email to <x id="INTERPOLATION" equiv-text="{{ data.email }}"/> when there
-      are new resources arount <x id="INTERPOLATION_1" equiv-text="{{ data.postalCode }}"/>.
+      are new resources around <x id="INTERPOLATION_1" equiv-text="{{ data.postalCode }}"/>.
     </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
