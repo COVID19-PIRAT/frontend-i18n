@@ -669,6 +669,13 @@
           <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="86ea28b102ff662c8b287921e890a294275607c7" datatype="html">
+        <source>Orga</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="location" datatype="html">
         <source>Standort:</source>
         <context-group purpose="location">
