@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="3c63204c1712a3c2df1f656dbaa795752f0e8d72" datatype="html">
         <source>Über unsere Seite können Universitäten und Forschungseinrichtungen ihre derzeit ungenutzten Ressourcen in Form von Geräten, Verbrauchsmaterial und Personal anbieten, die dann von Corona-Testlaboren angefragt und zur Erhöhung der Testkapazitäten genutzt werden können. Alle wichtigen Informationen finden Sie auf der <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ Seite<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target>Sul nostro sito universitá e centri di ricerca possono offrire risorse per esempio termociclatori, materiale di consumo o addirittura personale. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ Seite<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <target>Sul nostro sito universitá e centri di ricerca possono offrire risorse per esempio termociclatori, materiale di consumo o addirittura personale. Queste risorse possono essere richiesto da laboratori certificati che fanno Corona tests per aumentare la loro capacitá. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ Sito<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">19</context>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="c9ff29c33d4176360bdcbd22d41c95af16bef07d" datatype="html">
         <source>Aktuell haben wir folgende Geräte, Verbrauchsmaterialien und Zusagen von Hilfspersonen (Stand <x id="INTERPOLATION" equiv-text="{{ statistics.date }}"/>): </source>
-        <target/>
+        <target>Al momento le seguenti risorse sono disponibili. (Stato attuale <x id="INTERPOLATION" equiv-text="{{ statistics.date }}"/>): </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">25</context>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="a33d6e8abc859e8f75f09cb373a292fa9d59d0e2" datatype="html">
         <source>Dieses Projekt entstand in Zusammenarbeit mit</source>
-        <target/>
+        <target>Questo progetto é nato in collaborazione con</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">32</context>
@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="menu_contact" datatype="html">
         <source>Kontakt</source>
-        <target/>
+        <target>Contatto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">28</context>
@@ -80,7 +80,7 @@
       </trans-unit>
       <trans-unit id="menu_about" datatype="html">
         <source>Über uns</source>
-        <target/>
+        <target>Chi siamo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">31</context>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="menu_faq" datatype="html">
         <source>FAQ</source>
-        <target/>
+        <target>FAQ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">34</context>
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="_underDevelopmentNote" datatype="html">
         <source>Diese Seite ist intern und dient der Entwicklung. Die eigentliche Webseite befindet sich unter</source>
-        <target/>
+        <target>Questo sito é interno e riguarda solo lo sviluppo. Il sito vero si trova sotto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">46</context>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="footer_imprint" datatype="html">
         <source>Impressum</source>
-        <target/>
+        <target>Informazione legale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
           <context context-type="linenumber">3</context>
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="footer_dataPrivacy" datatype="html">
         <source>Datenschutz</source>
-        <target/>
+        <target>Tutela della privacy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
           <context context-type="linenumber">4</context>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="searchPersonal" datatype="html">
         <source>Suche nach Personal</source>
-        <target/>
+        <target>Ricerca personale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">15</context>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="searchDevice" datatype="html">
         <source>Suche nach Gerät</source>
-        <target/>
+        <target>Ricerca attrezzi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">20</context>
@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="searchConsumable" datatype="html">
         <source>Suche nach Verbrauchsmaterial</source>
-        <target/>
+        <target>Ricerca materiale di consumo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">25</context>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="_isExperienceWithPCRRequired" datatype="html">
         <source>Wird Erfahrung in der Durchführung von PCR und Real-Time PCR vorausgesetzt?</source>
-        <target/>
+        <target>È richiesta esperienza con la esecuzione di PCR e Real-Time PCR?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">58</context>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="yes" datatype="html">
         <source>Ja</source>
-        <target/>
+        <target>Sí</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">63</context>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="no" datatype="html">
         <source>Nein</source>
-        <target/>
+        <target>No</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">67</context>
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="typ" datatype="html">
         <source>Typ</source>
-        <target/>
+        <target>Tipo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">76</context>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="postalCodeOfLocation" datatype="html">
         <source>Postleitzahl des Standortes</source>
-        <target/>
+        <target>CAP della posizione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">106</context>
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="_pleaseCheckAddress" datatype="html">
         <source>Bitte prüfen Sie die eingegebenen Adressen.</source>
-        <target/>
+        <target>Le preghiamo di controllare l'indirizzo inserito.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">111</context>
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="_pleaseCheckInput" datatype="html">
         <source>Bitte prüfen Sie Ihre Eingaben.</source>
-        <target/>
+        <target>Le preghiamo di controllare l'inserimento.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">114</context>
@@ -272,7 +272,7 @@
       </trans-unit>
       <trans-unit id="doSearch" datatype="html">
         <source>Suchen</source>
-        <target/>
+        <target>Cerca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">119</context>
@@ -280,7 +280,7 @@
       </trans-unit>
       <trans-unit id="_recaptchaNote" datatype="html">
         <source>reCAPTCHA von Google verwendet Cookies, um zu speichern, dass Sie das Captcha bestätigt haben. Die Zustimmung zu diesem Cookie ist von unserer Seite für das Anlegen eines Angebotes notwendig. Sie können den Cookie im Nachhinein selbstständig wieder löschen.</source>
-        <target/>
+        <target>reCAPTCHA di Google utilizza cookie per salvare la conferma del Captcha. La conferma a questo cookie é necessario per usare il sito. È possibile cancellare il cookie dopo l'uso manualmente.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/re-captcha-wrapper/re-captcha-wrapper.component.html</context>
           <context context-type="linenumber">6</context>
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="contactData" datatype="html">
         <source>Kontaktdaten</source>
-        <target/>
+        <target>Dati di contatto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">10</context>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit id="requiredField" datatype="html">
         <source>Pflichtangabe</source>
-        <target/>
+        <target>Informazione obbligatoria</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">16</context>
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="name" datatype="html">
         <source>Name</source>
-        <target/>
+        <target>Nome</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">22</context>
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="emailAddress" datatype="html">
         <source>Email</source>
-        <target/>
+        <target>Email</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">30</context>
@@ -472,7 +472,7 @@
       </trans-unit>
       <trans-unit id="71134e1f8e386768460814d4d54b826ea9e1790a" datatype="html">
         <source>Adresse</source>
-        <target/>
+        <target>Indirizzo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">44</context>
@@ -481,7 +481,7 @@
       </trans-unit>
       <trans-unit id="street" datatype="html">
         <source>Straße</source>
-        <target/>
+        <target>Via</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">52</context>
@@ -489,7 +489,7 @@
       </trans-unit>
       <trans-unit id="streetNumber" datatype="html">
         <source>Hausnummer</source>
-        <target/>
+        <target>Numero civico</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">56</context>
@@ -497,7 +497,7 @@
       </trans-unit>
       <trans-unit id="postalCode" datatype="html">
         <source>PLZ</source>
-        <target/>
+        <target>CAP</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">60</context>
@@ -509,7 +509,7 @@
       </trans-unit>
       <trans-unit id="city" datatype="html">
         <source>Stadt</source>
-        <target/>
+        <target>Cittá</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">64</context>
@@ -517,7 +517,7 @@
       </trans-unit>
       <trans-unit id="country" datatype="html">
         <source>Land</source>
-        <target/>
+        <target>Paese</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">68</context>
@@ -525,7 +525,7 @@
       </trans-unit>
       <trans-unit id="70766de33ff31c49bad5849f12abd7b68994fd31" datatype="html">
         <source>Dürfen die Kontaktdaten online veröffentlicht werden? Falls nicht, können Suchende über ein Kontaktformular mit Ihnen Kontakt aufnehmen.</source>
-        <target/>
+        <target>Possiamo pubblicare le date di contatto? Se viene selezionato no, persone in ricerca possono usare il modulo di contatto per contattarLe.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">75</context>
@@ -534,7 +534,7 @@
       </trans-unit>
       <trans-unit id="e51c75d33b26790a004340c84a398f7063902e53" datatype="html">
         <source>Hiermit versichere ich, die <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> gelesen zu haben und stimme dieser zu. </source>
-        <target/>
+        <target>Dichiaro di aver letto e confermato la <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> . </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">89</context>
@@ -542,7 +542,7 @@
       </trans-unit>
       <trans-unit id="resources" datatype="html">
         <source>Ressourcen</source>
-        <target/>
+        <target>Risorse</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">101</context>
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="_alertAddAtLeastOneResource" datatype="html">
         <source>Bitte mindestens eine Ressource hinzufügen.</source>
-        <target/>
+        <target>Le preghiamo di inserire almeno una risorsa.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">102</context>
@@ -558,7 +558,7 @@
       </trans-unit>
       <trans-unit id="addPersonal" datatype="html">
         <source>Personal hinzufügen</source>
-        <target/>
+        <target>Aggiungi personale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">108</context>
@@ -566,7 +566,7 @@
       </trans-unit>
       <trans-unit id="addDevice" datatype="html">
         <source>Gerät hinzufügen</source>
-        <target/>
+        <target>Aggiungi apparecchi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">109</context>
@@ -574,7 +574,7 @@
       </trans-unit>
       <trans-unit id="addConsumable" datatype="html">
         <source>Verbrauchsmaterial hinzufügen</source>
-        <target/>
+        <target>Aggiungi materiale di consumo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">110</context>
@@ -582,7 +582,7 @@
       </trans-unit>
       <trans-unit id="f31444abf1e07cf021f4c787d6c2d6f048018896" datatype="html">
         <source>Über uns &amp; PIRAT</source>
-        <target/>
+        <target>Chi siamo &amp; PIRAT</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">3</context>
@@ -590,7 +590,7 @@
       </trans-unit>
       <trans-unit id="about_whatIsPIRAT" datatype="html">
         <source>Was ist PIRAT?</source>
-        <target/>
+        <target>Che cos'é PIRAT?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">11</context>
@@ -598,7 +598,7 @@
       </trans-unit>
       <trans-unit id="about_p1" datatype="html">
         <source>PIRAT (Pandemic Important Resource Allocation Tool) ist ein Tool für die Erfassung und effiziente Verteilung von notwendigen Ressourcen in Ausnahmesituation wie z.B. einer Pandemie.</source>
-        <target/>
+        <target>PIRAT (Pandemic Important Resource Allocation Tool) é uno strumento per il rilevamento e la distibuzione di risorse necessarie in situazioni eccezionali ad esempio una pandemia.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">12</context>
@@ -606,7 +606,7 @@
       </trans-unit>
       <trans-unit id="about_p2" datatype="html">
         <source>Wir wollen die Erfassung und Verteilung von notwendigen medizinischen Hilfsmitteln, aber auch Manpower, verbessern. Viele Labore an Universitäten sind gut ausgestattet, um diagnostische Tests auf SARS-CoV-2 durchzuführen, es fehlt hier allerdings die Berechtigung, diese Tests durchzuführen, sodass keine Patientenproben analysiert werden können. Offizielle Testlabore bräuchten die Ausstattung dieser Labore, da die Nachfrage an SARS-CoV-2-Tests ihre Kapazitäten übersteigt, aber diesen Austausch gibt es bisher nicht.</source>
-        <target/>
+        <target>Cerchiamo di migliorare il rilevamento e la distribuzione di strumenti di medicina e anche persone. Tanti laboratori universitarie hanno un ottima strumentazione, per fare test diagnostici di SARS-CoC-2, peró manca la certificazione per analizzare campioni di pazienti.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">16</context>
@@ -614,7 +614,7 @@
       </trans-unit>
       <trans-unit id="about_p3" datatype="html">
         <source>Ziel dieser Seite ist es deshalb, Testlabore mit Einrichtungen wie Universitäten zu vernetzen, die Geräte, Verbrauchsmaterialien und auch qualifiziertes Personal zur Unterstützung bei der Durchführung von SARS-CoV-2-Tests zur Verfügung stellen könnten. Dabei können Universitäten ihre freien Ressourcen in unsere Datenbank eintragen und werden benachrichtigt, sobald eines der umliegenden Testlabore diese Ressourcen benötigt. Hierdurch können die Testkapazitäten erweitert werden, sodass Verdachtsfälle schneller getestet werden können.</source>
-        <target/>
+        <target>Objettivo di questo sito è di collegare laboratori certificati al test di Corona con universitá, che possono offrire apparecchi, materiale di consumo e anche personale qualificato per l'assistenza al SARS-CoC-2-test. Un universitá puó registrare le proprie risorse nel nostro database e viene avvisata se a un laboratorio certificato nelle vicinanze serve questa risorsa. Cosí le capacitá di test possono essere aumentati. Cosí un caso sospetto puó essere trovato piú velocemente.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">24</context>
@@ -654,7 +654,7 @@
       </trans-unit>
       <trans-unit id="location" datatype="html">
         <source>Standort:</source>
-        <target/>
+        <target>Luogo:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">14</context>
@@ -670,7 +670,7 @@
       </trans-unit>
       <trans-unit id="away" datatype="html">
         <source>entfernt</source>
-        <target/>
+        <target>Distanza</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">17</context>
@@ -678,7 +678,7 @@
       </trans-unit>
       <trans-unit id="institution" datatype="html">
         <source>Institution</source>
-        <target/>
+        <target>Istituzione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">21</context>
@@ -706,7 +706,7 @@
       </trans-unit>
       <trans-unit id="researchGroup" datatype="html">
         <source>Forschungsgruppe</source>
-        <target/>
+        <target>Gruppo di ricerca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">25</context>
@@ -722,7 +722,7 @@
       </trans-unit>
       <trans-unit id="area" datatype="html">
         <source>Bereich</source>
-        <target/>
+        <target>Ambito</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">29</context>
@@ -738,7 +738,7 @@
       </trans-unit>
       <trans-unit id="experienceWithPCR" datatype="html">
         <source>Erfahrung mit PCR und Real-Time PCR</source>
-        <target/>
+        <target>Esperienza con PCR e Real-Time PCR</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">33</context>
@@ -746,7 +746,7 @@
       </trans-unit>
       <trans-unit id="showDetails" datatype="html">
         <source>Details anzeigen</source>
-        <target/>
+        <target>Vedi dettagli</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">44</context>
@@ -762,7 +762,7 @@
       </trans-unit>
       <trans-unit id="comments" datatype="html">
         <source>Anmerkungen</source>
-        <target/>
+        <target>Commento</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">48</context>
@@ -790,7 +790,7 @@
       </trans-unit>
       <trans-unit id="hideDetails" datatype="html">
         <source>Details ausblenden</source>
-        <target/>
+        <target>Chiudi dettagli</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">74</context>
@@ -806,7 +806,7 @@
       </trans-unit>
       <trans-unit id="manufacturer" datatype="html">
         <source>Hersteller</source>
-        <target/>
+        <target>Produttore</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">82</context>
@@ -834,7 +834,7 @@
       </trans-unit>
       <trans-unit id="orderOrSerialNumber" datatype="html">
         <source>Bestell- oder Seriennummer</source>
-        <target/>
+        <target>Numero seriale o numero d'ordinazione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">86</context>
@@ -862,7 +862,7 @@
       </trans-unit>
       <trans-unit id="amount" datatype="html">
         <source>Menge</source>
-        <target/>
+        <target>Quantitá</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">96</context>
@@ -890,7 +890,7 @@
       </trans-unit>
       <trans-unit id="contact" datatype="html">
         <source>Kontakt</source>
-        <target/>
+        <target>Contatto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">112</context>
@@ -906,7 +906,7 @@
       </trans-unit>
       <trans-unit id="bd55cf90cf84ba268015a7e0855c7078bf27e6c5" datatype="html">
         <source>Angebotsübersicht</source>
-        <target/>
+        <target>Sommario delle offerte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">3</context>
@@ -914,7 +914,7 @@
       </trans-unit>
       <trans-unit id="8442c5ce365ba0e84471bd518a57bd49f9b6d966" datatype="html">
         <source>Das Angebot wurde erfasst. Auf dieser Seite können Sie Ihre Daten einsehen. Eine Bestätigung wurde Ihnen auch per Email zugeschickt.</source>
-        <target/>
+        <target>L'offerta é stata registrata. Su questo sito puó controllare le sue date. Una conferma le é stato mandato tramitte email.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">11</context>
@@ -930,7 +930,7 @@
       </trans-unit>
       <trans-unit id="phoneNumber" datatype="html">
         <source>Telefonnummer</source>
-        <target/>
+        <target>Numero di telefono</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">53</context>
@@ -946,7 +946,7 @@
       </trans-unit>
       <trans-unit id="address" datatype="html">
         <source>Adresse</source>
-        <target/>
+        <target>Indirizzo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">60</context>
@@ -954,7 +954,7 @@
       </trans-unit>
       <trans-unit id="e48b1c095c7d61efcbb8f523076bdf3a3298c71b" datatype="html">
         <source>Qualifikation</source>
-        <target/>
+        <target>Qualificazione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">75</context>
@@ -963,7 +963,7 @@
       </trans-unit>
       <trans-unit id="_questionExperienceWithPCR" datatype="html">
         <source>Haben Sie Erfahrung in der Durchführung von PCR und Real-Time PCR?</source>
-        <target/>
+        <target>Ha esperienza con l' uso di PCR o Real-Time PCR?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">105</context>
@@ -975,7 +975,7 @@
       </trans-unit>
       <trans-unit id="comments_s1s" datatype="html">
         <source>Anmerkungen (z.B. S1 oder S2-Unterweisung vorhanden, medizinische Qualifikation zur Abstrichentnahme vorhanden)</source>
-        <target/>
+        <target>Commento (ad esempio qualificato al lavoro in laboratorio di sicurezza etc.)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">116</context>
@@ -987,7 +987,7 @@
       </trans-unit>
       <trans-unit id="_declarationVoluntaryWork" datatype="html">
         <source>Hiermit wird bestätigt, dass der Helfer die Tätigkeit ehrenamtlich außerhalb der Arbeitszeiten ausführt.</source>
-        <target/>
+        <target>Confermo di aiutare a propriá volontá al fuori dei miei orari di lavoro.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">123</context>
@@ -999,7 +999,7 @@
       </trans-unit>
       <trans-unit id="category" datatype="html">
         <source>Kategorie</source>
-        <target/>
+        <target>Categoria</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">131</context>
@@ -1019,7 +1019,7 @@
       </trans-unit>
       <trans-unit id="exactName" datatype="html">
         <source>Exakte Materialbezeichnung</source>
-        <target/>
+        <target>Descrizione di materiale precisa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">138</context>
@@ -1039,7 +1039,7 @@
       </trans-unit>
       <trans-unit id="helper" datatype="html">
         <source>Helfer</source>
-        <target/>
+        <target>Volontario</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1047,7 +1047,7 @@
       </trans-unit>
       <trans-unit id="qualification" datatype="html">
         <source>Qualifikation</source>
-        <target/>
+        <target>Qulificazione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">5</context>
@@ -1055,7 +1055,7 @@
       </trans-unit>
       <trans-unit id="device" datatype="html">
         <source>Gerät</source>
-        <target/>
+        <target>Apparecchio</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">81</context>
@@ -1063,7 +1063,7 @@
       </trans-unit>
       <trans-unit id="2dffc079c2b15adcc30e3cbb23f8f4d84ac397f7" datatype="html">
         <source>Anmerkungen</source>
-        <target/>
+        <target>Commenti</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">130</context>
@@ -1072,7 +1072,7 @@
       </trans-unit>
       <trans-unit id="consumable" datatype="html">
         <source>Verbrauchsmaterial</source>
-        <target/>
+        <target>Materiale di consumo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">140</context>
@@ -1080,7 +1080,7 @@
       </trans-unit>
       <trans-unit id="selectUnit" datatype="html">
         <source>Einheit auswählen</source>
-        <target/>
+        <target>Seleziona unitá</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">190</context>
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="piece" datatype="html">
         <source>Stück</source>
-        <target/>
+        <target>Pezzi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">191</context>
@@ -1096,7 +1096,7 @@
       </trans-unit>
       <trans-unit id="pack" datatype="html">
         <source>Packung</source>
-        <target/>
+        <target>Confezione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">192</context>
@@ -1104,7 +1104,7 @@
       </trans-unit>
       <trans-unit id="_othersMoreInComments" datatype="html">
         <source>Sonstiges (Bitte in den Anmerkungen spezifizieren)</source>
-        <target/>
+        <target>Altro (prego specificare in commenti)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">193</context>
@@ -1112,7 +1112,7 @@
       </trans-unit>
       <trans-unit id="29d5a4ab66c713028764abdac91175fcf4086f38" datatype="html">
         <source>Kontaktieren Sie den Anbieter</source>
-        <target/>
+        <target>Contatta il fornitore</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1120,7 +1120,7 @@
       </trans-unit>
       <trans-unit id="9862c0fe46a72d8e8defb19e4f8f7e903bbacf7b" datatype="html">
         <source>Vielen Dank für Ihre Nachricht. Sie wurde an den Anbieter übermittelt, er wird sich direkt mit Ihnen in Verbindung setzen.</source>
-        <target/>
+        <target>Grazie del messaggio. Verrá inoltrato al fornitore. Verrá contattato direttamente dal fornitore.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
           <context context-type="linenumber">3</context>
@@ -1128,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="1b3806ced266a7d811ee673e3cf92f28d46acdc2" datatype="html">
         <source>Die Kontaktdaten des Anbieters sind nicht öffentlich. Nutzen Sie dieses Kontaktformular, um dem Anbieter eine Nachricht zu hinterlassen.</source>
-        <target/>
+        <target>I dati del contatto non sono pubblico. Le preghiamo di usare il modulo di contatto, per lasciare un messaggio.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
           <context context-type="linenumber">7</context>
@@ -1136,7 +1136,7 @@
       </trans-unit>
       <trans-unit id="message" datatype="html">
         <source>Nachricht</source>
-        <target/>
+        <target>Messaggio</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
           <context context-type="linenumber">38</context>
@@ -1144,7 +1144,7 @@
       </trans-unit>
       <trans-unit id="sendMessage" datatype="html">
         <source>Nachricht absenden</source>
-        <target/>
+        <target>Invia messaggio</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
           <context context-type="linenumber">48</context>
@@ -1152,7 +1152,7 @@
       </trans-unit>
       <trans-unit id="c81133406fe390838ce1a61fa6f692e2121ffe78" datatype="html">
         <source>Wenn Sie Fragen, Wünsche oder Anregungen haben, freuen wir uns, wenn Sie Kontakt mit uns aufnehmen. Schreiben Sie uns eine Email an <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> oder benutzen Sie das Kontaktformular, wir melden uns schnellstmöglich per E-Mail oder Telefon bei Ihnen! </source>
-        <target/>
+        <target>Se ha domande o desideri, siamo contenti del Suo messaggio. Ci puó mandare una mail a <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> o usare il modulo di contatto. Cerchiamo di contattarLe al piú presto possibile tramitte E-mail o telefono! </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">11</context>
@@ -1160,7 +1160,7 @@
       </trans-unit>
       <trans-unit id="12b1acff5a98f083a535d1d3c3946d6a885ba1a0" datatype="html">
         <source>Vielen Dank für Ihre Kontaktanfrage, wir werden uns gleich bei Ihnen melden.</source>
-        <target/>
+        <target>Grazie per la richiesta. Verrá contattato al piú presto possibile.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">18</context>
@@ -1168,7 +1168,7 @@
       </trans-unit>
       <trans-unit id="31867f3fa2c5b318110b602e0ba700190f8cf61f" datatype="html">
         <source>Rückruf anfragen</source>
-        <target/>
+        <target>Chiedi un richiamo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">22</context>
@@ -1176,7 +1176,7 @@
       </trans-unit>
       <trans-unit id="topic" datatype="html">
         <source>Thema</source>
-        <target/>
+        <target>Tema</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">48</context>
@@ -1184,7 +1184,7 @@
       </trans-unit>
       <trans-unit id="fa18a8689304bf55b4500ded2193a374fea96e66" datatype="html">
         <source>Anmerkungen</source>
-        <target/>
+        <target>Commenti</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">61</context>
@@ -1193,7 +1193,7 @@
       </trans-unit>
       <trans-unit id="8855dc6f5dc587441c6514f584021d59a612161b" datatype="html">
         <source>Hiermit versichere ich, die <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> gelesen zu haben und stimme dieser zu. </source>
-        <target/>
+        <target>Confermo di aver letto e confermato la <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">67</context>
@@ -1201,7 +1201,7 @@
       </trans-unit>
       <trans-unit id="sendRequest" datatype="html">
         <source>Anfrage abschicken</source>
-        <target/>
+        <target>Invia richiesta</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">78</context>
@@ -1209,7 +1209,7 @@
       </trans-unit>
       <trans-unit id="404PageNotFound" datatype="html">
         <source>404 Seite nicht gefunden</source>
-        <target/>
+        <target>404 Sito non trovato</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/not-found/not-found.component.html</context>
           <context context-type="linenumber">3</context>
@@ -1217,7 +1217,7 @@
       </trans-unit>
       <trans-unit id="devices" datatype="html">
         <source>Geräte</source>
-        <target/>
+        <target>Apparecchio</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
           <context context-type="linenumber">5</context>
@@ -1225,7 +1225,7 @@
       </trans-unit>
       <trans-unit id="consumables" datatype="html">
         <source>Verbrauchsmaterial</source>
-        <target/>
+        <target>Materiale di consumo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
           <context context-type="linenumber">20</context>
@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="persons" datatype="html">
         <source>Personen</source>
-        <target/>
+        <target>Persone</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
           <context context-type="linenumber">35</context>
@@ -1241,7 +1241,7 @@
       </trans-unit>
       <trans-unit id="helpers" datatype="html">
         <source>Helfer</source>
-        <target/>
+        <target>Volontario</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
           <context context-type="linenumber">38</context>
@@ -1249,7 +1249,7 @@
       </trans-unit>
       <trans-unit id="7e0f9866390e11fc443aaee8fd869b1babbf0d13" datatype="html">
         <source>Benötigte Ressource nicht gefunden?</source>
-        <target/>
+        <target>Non ha trovato le risorse cercate?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">4</context>
@@ -1257,7 +1257,7 @@
       </trans-unit>
       <trans-unit id="a032dadcf6b0ec1981fddde570f5e20550fa09a9" datatype="html">
         <source>Vielen Dank für Ihr Interesse. Wir werden Ihnen eine Email an <x id="INTERPOLATION" equiv-text="{{ data.email }}"/> senden, sobald neue Ressourcen in der Nähe von <x id="INTERPOLATION_1" equiv-text="{{ data.postalCode }}"/> zur Verfügung stehen. </source>
-        <target/>
+        <target>Grazie del suo interesse. Le mandiamo una mail a <x id="INTERPOLATION" equiv-text="{{ data.email }}"/> appena sono disponibili nuove risorse nelle vicinanze di <x id="INTERPOLATION_1" equiv-text="{{ data.postalCode }}"/> . </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">6</context>
@@ -1265,7 +1265,7 @@
       </trans-unit>
       <trans-unit id="03d54a456dcb4d8ebb60b5bfb292bb82dbeea1bb" datatype="html">
         <source>Sie können sich über das folgende Fomular registrieren. Dann benachrichtigen wir Sie per Email, sobald neue Angebote in Ihrer Umgebung eingestellt wurden.</source>
-        <target/>
+        <target>Si puó registrare tramite il seguente modulo. Viene contattato tramite email appena si trovano offerte nelle sue vicinanze.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">11</context>
@@ -1273,7 +1273,7 @@
       </trans-unit>
       <trans-unit id="email" datatype="html">
         <source>Email</source>
-        <target/>
+        <target>Email</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">30</context>
@@ -1281,7 +1281,7 @@
       </trans-unit>
       <trans-unit id="register" datatype="html">
         <source>Anmelden</source>
-        <target/>
+        <target>Registrati</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">50</context>
