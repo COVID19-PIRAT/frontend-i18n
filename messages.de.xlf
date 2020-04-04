@@ -230,12 +230,6 @@
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
-      </trans-unit><trans-unit id="about_whatIsPIRAT" datatype="html">
-        <source>Was ist PIRAT?</source><target state="final">Was ist PIRAT?</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">11</context>
-        </context-group>
       </trans-unit><trans-unit id="about_p1" datatype="html">
         <source>
           PIRAT (Pandemic Important Resource Allocation Tool) ist ein Tool für die Erfassung und effiziente Verteilung
@@ -244,11 +238,8 @@
           PIRAT (Pandemic Important Resource Allocation Tool) ist ein Tool für die Erfassung und effiziente Verteilung
           von notwendigen Ressourcen in Ausnahmesituation wie z.B. einer Pandemie.
         </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">12</context>
-        </context-group>
-      </trans-unit><trans-unit id="about_p2" datatype="html">
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">11</context></context-group></trans-unit><trans-unit id="about_p2" datatype="html">
         <source>
           Wir wollen die Erfassung und Verteilung von notwendigen medizinischen Hilfsmitteln, aber auch Manpower,
           verbessern. Viele Labore an Universitäten sind gut ausgestattet, um diagnostische Tests auf SARS-CoV-2
@@ -264,11 +255,8 @@
           die Nachfrage an SARS-CoV-2-Tests ihre Kapazitäten übersteigt, aber diesen Austausch gibt es bisher
           nicht.
         </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">16</context>
-        </context-group>
-      </trans-unit><trans-unit id="about_p3" datatype="html">
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">15</context></context-group></trans-unit><trans-unit id="about_p3" datatype="html">
         <source>
           Ziel dieser Seite ist es deshalb, Testlabore mit Einrichtungen wie Universitäten zu vernetzen, die Geräte,
           Verbrauchsmaterialien und auch qualifiziertes Personal zur Unterstützung bei der Durchführung von
@@ -284,11 +272,8 @@
           benötigt. Hierdurch können die Testkapazitäten erweitert werden, sodass Verdachtsfälle schneller getestet
           werden können.
         </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">24</context>
-        </context-group>
-      </trans-unit><trans-unit id="about_p4" datatype="html">
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">23</context></context-group></trans-unit><trans-unit id="about_p4" datatype="html">
         <source>
           Weiter könnte man auch schon bei den Patientenabstrichen und dem Transport der Proben zu den Testlaboren
           ansetzen und hier mit zusätzlicher Manpower, die von den Universitäten akquiriert wird, dafür sorgen, dass
@@ -300,11 +285,8 @@
           Verdachtsfälle rasch getestet werden können. Hier ist eine enge Zusammenarbeit mit den Gesundheitsämtern
           vorgesehen.
         </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">32</context>
-        </context-group>
-      </trans-unit><trans-unit id="about_p5" datatype="html">
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">31</context></context-group></trans-unit><trans-unit id="about_p5" datatype="html">
         <source>
           Das Tool ist selbstverständlich auch erweiterbar auf sonstige Verbrauchsmaterialien, die an Krankenhäusern
           und im Rettungsdienst oder der Krankenpflege momentan Mangelware sind (z.B. Handschuhe, Masken, Schutzbrillen,
@@ -316,11 +298,8 @@
           Desinfektionsmittel. Erste Versuche von Spenden von Universitäten an Krankenhäuser laufen hier derzeit sehr
           unkoordiniert ab) und weitere Manpower im Sinne von Krankenhaus- oder Rettungsdienstpersonal.
         </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">38</context>
-        </context-group>
-      </trans-unit><trans-unit id="about_p6" datatype="html">
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">37</context></context-group></trans-unit><trans-unit id="about_p6" datatype="html">
         <source>
           Zusammenfassend herrscht aktuell das Problem vor, dass Ressourcen in Form von Personal, Geräten und
           Verbrauchsmaterial vorhanden sind, die an anderer Stelle gebraucht werden, aber kein Austausch zwischen den
@@ -330,21 +309,36 @@
           Verbrauchsmaterial vorhanden sind, die an anderer Stelle gebraucht werden, aber kein Austausch zwischen den
           entsprechenden Stellen stattfindet. Diese Situation wird durch unser Tool erheblich verbessert.
         </target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">43</context></context-group></trans-unit><trans-unit id="a505677a237f0100d42e2d28a1e1b1a4a79dd4d3" datatype="html">
+        <source>Fachexpertise</source><target state="final">Fachexpertise</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">44</context>
+          <context context-type="linenumber">51</context>
         </context-group>
-      </trans-unit><trans-unit id="about_whoIsBehindPIRAT" datatype="html">
-        <source>Wer steht hinter PIRAT?</source><target state="final">Wer steht hinter PIRAT?</target>
+      </trans-unit><trans-unit id="e34a0ed6e8b02985885a10a7fccbef0cd4f4510d" datatype="html">
+        <source>Kommunikation</source><target state="final">Kommunikation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">52</context>
+          <context context-type="linenumber">63</context>
         </context-group>
-      </trans-unit><trans-unit id="86ea28b102ff662c8b287921e890a294275607c7" datatype="html">
-        <source>Orga</source><target state="final">Orga</target>
+      </trans-unit><trans-unit id="f370a7f0a95d2e83e002e375cbdcce09c5b72626" datatype="html">
+        <source>Entwicklung</source><target state="final">Entwicklung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">54</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit><trans-unit id="4338399b99e4b29cc814b86ba05a42a03fb304cb" datatype="html">
+        <source>Beratung</source><target state="final">Beratung</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit><trans-unit id="ffcf76caf26a88208ea4102e335e2b6bb76a9207" datatype="html">
+        <source>Internationale Zusammenarbeit</source><target state="final">Internationale Zusammenarbeit</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">99</context>
         </context-group>
       </trans-unit><trans-unit id="_pleaseCheckAddress" datatype="html">
         <source>

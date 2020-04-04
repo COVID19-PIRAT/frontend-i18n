@@ -302,25 +302,15 @@
           <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="about_whatIsPIRAT" datatype="html">
-        <source>Was ist PIRAT?</source>
-        <target state="translated">What is PIRAT?</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">11</context>
-        </context-group>
-      </trans-unit>
+      
       <trans-unit id="about_p1" datatype="html">
         <source>
           PIRAT (Pandemic Important Resource Allocation Tool) ist ein Tool für die Erfassung und effiziente Verteilung
           von notwendigen Ressourcen in Ausnahmesituation wie z.B. einer Pandemie.
         </source>
         <target state="translated">PIRAT (Pandemic Important Resource Allocation Tool) is a tool to register and efficiently distribute necessary resources in exceptional situations such as a pandemic.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">12</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">11</context></context-group></trans-unit>
       <trans-unit id="about_p2" datatype="html">
         <source>
           Wir wollen die Erfassung und Verteilung von notwendigen medizinischen Hilfsmitteln, aber auch Manpower,
@@ -331,11 +321,8 @@
           nicht.
         </source>
         <target state="translated">We want to improve the collection and distribution of necessary medical equipment, but also manpower. Many university laboratories are well equipped to perform diagnostic tests for SARS-CoV-2, but they lack the authorization to perform these tests, so patient samples cannot be analyzed. Official test laboratories would need the equipment of these laboratories, as the demand for SARS-CoV-2 testing exceeds their capacity, but this exchange does not exist yet.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">16</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">15</context></context-group></trans-unit>
       <trans-unit id="about_p3" datatype="html">
         <source>
           Ziel dieser Seite ist es deshalb, Testlabore mit Einrichtungen wie Universitäten zu vernetzen, die Geräte,
@@ -346,11 +333,8 @@
           werden können.
         </source>
         <target state="translated">Therefore, the aim of this site is to connect test laboratories with institutions such as universities that could provide equipment, consumables and qualified staff to assist in performing SARS-CoV-2 tests. Universities can enter their free resources in our database and will be notified as soon as one of the surrounding test laboratories needs these resources. This expands testing capacities so that suspected cases can be tested more quickly.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">24</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">23</context></context-group></trans-unit>
       <trans-unit id="about_p4" datatype="html">
         <source>
           Weiter könnte man auch schon bei den Patientenabstrichen und dem Transport der Proben zu den Testlaboren
@@ -359,11 +343,8 @@
           vorgesehen.
         </source>
         <target state="translated">In addition, one could also start with patient swabs and the transport of samples to the test laboratories already, where additional manpower acquired from the universities could ensure that suspected cases can be tested quickly. Here, close cooperation with the health authorities is planned.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">32</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">31</context></context-group></trans-unit>
       <trans-unit id="about_p5" datatype="html">
         <source>
           Das Tool ist selbstverständlich auch erweiterbar auf sonstige Verbrauchsmaterialien, die an Krankenhäusern
@@ -372,11 +353,8 @@
           unkoordiniert ab) und weitere Manpower im Sinne von Krankenhaus- oder Rettungsdienstpersonal.
         </source>
         <target state="translated">Of course, the tool can also be extended to other consumables that are currently in short supply in hospitals and in the emergency or nursing services (e.g. gloves, masks, protective goggles, disinfectants; first attempts of donations from universities to hospitals are currently happening very uncoordinatedly), as well as further manpower in terms of hospital or rescue service staff.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">38</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">37</context></context-group></trans-unit>
       <trans-unit id="about_p6" datatype="html">
         <source>
           Zusammenfassend herrscht aktuell das Problem vor, dass Ressourcen in Form von Personal, Geräten und
@@ -384,25 +362,39 @@
           entsprechenden Stellen stattfindet. Diese Situation wird durch unser Tool erheblich verbessert.
         </source>
         <target state="translated">In summary, the current problem is that there are resources in the form of staff, equipment and consumables that are needed elsewhere, but there is no exchange between the relevant bodies. This situation is considerably improved by our tool.</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/about/about.component.html</context><context context-type="linenumber">43</context></context-group></trans-unit><trans-unit id="a505677a237f0100d42e2d28a1e1b1a4a79dd4d3" datatype="html">
+        <source>Fachexpertise</source><target state="translated">Technical Expertise</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">44</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit><trans-unit id="e34a0ed6e8b02985885a10a7fccbef0cd4f4510d" datatype="html">
+        <source>Kommunikation</source><target state="translated">Communication</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit><trans-unit id="f370a7f0a95d2e83e002e375cbdcce09c5b72626" datatype="html">
+        <source>Entwicklung</source><target state="translated">Development</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit><trans-unit id="4338399b99e4b29cc814b86ba05a42a03fb304cb" datatype="html">
+        <source>Beratung</source><target state="translated">Consulting</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit><trans-unit id="ffcf76caf26a88208ea4102e335e2b6bb76a9207" datatype="html">
+        <source>Internationale Zusammenarbeit</source><target state="translated">International Cooperation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">99</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="about_whoIsBehindPIRAT" datatype="html">
-        <source>Wer steht hinter PIRAT?</source>
-        <target state="translated">Who is behind PIRAT?</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">52</context>
-        </context-group>
-      </trans-unit><trans-unit id="86ea28b102ff662c8b287921e890a294275607c7" datatype="html">
-        <source>Orga</source><target state="translated">Orga</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/about/about.component.html</context>
-          <context context-type="linenumber">54</context>
-        </context-group>
-      </trans-unit>
+      
       <trans-unit id="_pleaseCheckAddress" datatype="html">
         <source>Bitte prüfen Sie die eingegebenen Adressen.</source>
         <target state="translated">Please check the entered addresses.</target>
