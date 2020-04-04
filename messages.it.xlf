@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="home_projectDescription" datatype="html">
         <source>Erfassung und effiziente Verteilung von notwendigen Ressourcen in Ausnahmesituation</source>
-        <target>Rilevamento e distribuzione di risorse necessarie in casi eccezionali</target>
+        <target>Raccolta e distribuzione di risorse indispensabili in caso di calamitá</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">5</context>
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="3c63204c1712a3c2df1f656dbaa795752f0e8d72" datatype="html">
         <source>Über unsere Seite können Universitäten und Forschungseinrichtungen ihre derzeit ungenutzten Ressourcen in Form von Geräten, Verbrauchsmaterial und Personal anbieten, die dann von Corona-Testlaboren angefragt und zur Erhöhung der Testkapazitäten genutzt werden können. Alle wichtigen Informationen finden Sie auf der <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ Seite<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target>Sul nostro sito universitá e centri di ricerca possono offrire risorse per esempio termociclatori, materiale di consumo o addirittura personale. Queste risorse possono essere richiesto da laboratori certificati che fanno Corona tests per aumentare la loro capacitá. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ Sito<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <target>Tramite il nostro sito, universitá e centri di ricerca possono offrire risorse (per esempio termociclatori, materiale di consumo) o addirittura personale. Queste risorse possono essere richieste da laboratori certificati che fanno Corona tests per aumentare la loro capacitá. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ Sito<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">19</context>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="c9ff29c33d4176360bdcbd22d41c95af16bef07d" datatype="html">
         <source>Aktuell haben wir folgende Geräte, Verbrauchsmaterialien und Zusagen von Hilfspersonen (Stand <x id="INTERPOLATION" equiv-text="{{ statistics.date }}"/>): </source>
-        <target>Al momento le seguenti risorse sono disponibili. (Stato attuale <x id="INTERPOLATION" equiv-text="{{ statistics.date }}"/>): </target>
+        <target>Al momento le seguenti risorse sono giá disponibili (Stato attuale <x id="INTERPOLATION" equiv-text="{{ statistics.date }}"/>): </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">25</context>
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="_underDevelopmentNote" datatype="html">
         <source>Diese Seite ist intern und dient der Entwicklung. Die eigentliche Webseite befindet sich unter</source>
-        <target>Questo sito é interno e riguarda solo lo sviluppo. Il sito vero si trova sotto</target>
+        <target>Questo sito é per uso interno e riguarda solo lo sviluppo. Il sito vero si trova sotto</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">46</context>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="searchPersonal" datatype="html">
         <source>Suche nach Personal</source>
-        <target>Ricerca personale</target>
+        <target>Ricerca di personale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">15</context>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="searchDevice" datatype="html">
         <source>Suche nach Gerät</source>
-        <target>Ricerca attrezzi</target>
+        <target>Ricerca di apparecchi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">20</context>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="_isExperienceWithPCRRequired" datatype="html">
         <source>Wird Erfahrung in der Durchführung von PCR und Real-Time PCR vorausgesetzt?</source>
-        <target>È richiesta esperienza con la esecuzione di PCR e Real-Time PCR?</target>
+        <target>È richiesta esperienza nell' esecuzione di PCR e Real-Time PCR?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">58</context>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="postalCodeOfLocation" datatype="html">
         <source>Postleitzahl des Standortes</source>
-        <target>CAP della posizione</target>
+        <target>CAP della tua posizione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">106</context>
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="_pleaseCheckAddress" datatype="html">
         <source>Bitte prüfen Sie die eingegebenen Adressen.</source>
-        <target>Le preghiamo di controllare l'indirizzo inserito.</target>
+        <target>La preghiamo di controllare l'indirizzo inserito.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">111</context>
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="_pleaseCheckInput" datatype="html">
         <source>Bitte prüfen Sie Ihre Eingaben.</source>
-        <target>Le preghiamo di controllare l'inserimento.</target>
+        <target>La preghiamo di ricontrollare i dati inseriti.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">114</context>
@@ -272,7 +272,7 @@
       </trans-unit>
       <trans-unit id="doSearch" datatype="html">
         <source>Suchen</source>
-        <target>Cerca</target>
+        <target>Ricerca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">119</context>
@@ -280,7 +280,7 @@
       </trans-unit>
       <trans-unit id="_recaptchaNote" datatype="html">
         <source>reCAPTCHA von Google verwendet Cookies, um zu speichern, dass Sie das Captcha bestätigt haben. Die Zustimmung zu diesem Cookie ist von unserer Seite für das Anlegen eines Angebotes notwendig. Sie können den Cookie im Nachhinein selbstständig wieder löschen.</source>
-        <target>reCAPTCHA di Google utilizza cookie per salvare la conferma del Captcha. La conferma a questo cookie é necessario per usare il sito. È possibile cancellare il cookie dopo l'uso manualmente.</target>
+        <target>reCAPTCHA di Google utilizza cookies per salvare la conferma del Captcha. Il consenso a questo cookie é necessario per l'utilizzo del sito. È possibile cancellare manualmente il cookie dopo l'uso.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/re-captcha-wrapper/re-captcha-wrapper.component.html</context>
           <context context-type="linenumber">6</context>
@@ -525,7 +525,7 @@
       </trans-unit>
       <trans-unit id="70766de33ff31c49bad5849f12abd7b68994fd31" datatype="html">
         <source>Dürfen die Kontaktdaten online veröffentlicht werden? Falls nicht, können Suchende über ein Kontaktformular mit Ihnen Kontakt aufnehmen.</source>
-        <target>Possiamo pubblicare le date di contatto? Se viene selezionato no, persone in ricerca possono usare il modulo di contatto per contattarLe.</target>
+        <target>Possiamo pubblicare dati per contattarLa? In caso negativo, persone in ricerca complileranno il modulo di contatto per contattarLa.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">75</context>
@@ -534,7 +534,7 @@
       </trans-unit>
       <trans-unit id="e51c75d33b26790a004340c84a398f7063902e53" datatype="html">
         <source>Hiermit versichere ich, die <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> gelesen zu haben und stimme dieser zu. </source>
-        <target>Dichiaro di aver letto e confermato la <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> . </target>
+        <target>Dichiaro di aver letto e confermato la <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/> tutela della privacy <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> . </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">89</context>
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="_alertAddAtLeastOneResource" datatype="html">
         <source>Bitte mindestens eine Ressource hinzufügen.</source>
-        <target>Le preghiamo di inserire almeno una risorsa.</target>
+        <target>La preghiamo di inserire almeno una risorsa.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">102</context>
@@ -566,7 +566,7 @@
       </trans-unit>
       <trans-unit id="addDevice" datatype="html">
         <source>Gerät hinzufügen</source>
-        <target>Aggiungi apparecchi</target>
+        <target>Aggiungi apparecchio</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">109</context>
@@ -598,7 +598,7 @@
       </trans-unit>
       <trans-unit id="about_p1" datatype="html">
         <source>PIRAT (Pandemic Important Resource Allocation Tool) ist ein Tool für die Erfassung und effiziente Verteilung von notwendigen Ressourcen in Ausnahmesituation wie z.B. einer Pandemie.</source>
-        <target>PIRAT (Pandemic Important Resource Allocation Tool) é uno strumento per il rilevamento e la distibuzione di risorse necessarie in situazioni eccezionali ad esempio una pandemia.</target>
+        <target>PIRAT (Pandemic Important Resource Allocation Tool) é uno strumento per raccolta e distibuzione di risorse necessarie in situazioni eccezionali ad esempio una pandemia.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">12</context>
@@ -606,7 +606,7 @@
       </trans-unit>
       <trans-unit id="about_p2" datatype="html">
         <source>Wir wollen die Erfassung und Verteilung von notwendigen medizinischen Hilfsmitteln, aber auch Manpower, verbessern. Viele Labore an Universitäten sind gut ausgestattet, um diagnostische Tests auf SARS-CoV-2 durchzuführen, es fehlt hier allerdings die Berechtigung, diese Tests durchzuführen, sodass keine Patientenproben analysiert werden können. Offizielle Testlabore bräuchten die Ausstattung dieser Labore, da die Nachfrage an SARS-CoV-2-Tests ihre Kapazitäten übersteigt, aber diesen Austausch gibt es bisher nicht.</source>
-        <target>Cerchiamo di migliorare il rilevamento e la distribuzione di strumenti di medicina e anche persone. Tanti laboratori universitarie hanno un ottima strumentazione, per fare test diagnostici di SARS-CoC-2, peró manca la certificazione per analizzare campioni di pazienti.</target>
+        <target>Cerchiamo di migliorare raccolta e distribuzione di strumenti medici e personale. Tanti laboratori universitari hanno un'ottima strumentazione adatta a test diagnostici di SARS-CoV-2, mancano peró di una certificazione necessaria nell'analisi di campioni di pazienti. Laboratori ufficiali hanno attualmente bisogno di questa strumentazione per poter aumentare le proprie capacitá. Attualmente questo scambio non avviene.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">16</context>
@@ -614,7 +614,7 @@
       </trans-unit>
       <trans-unit id="about_p3" datatype="html">
         <source>Ziel dieser Seite ist es deshalb, Testlabore mit Einrichtungen wie Universitäten zu vernetzen, die Geräte, Verbrauchsmaterialien und auch qualifiziertes Personal zur Unterstützung bei der Durchführung von SARS-CoV-2-Tests zur Verfügung stellen könnten. Dabei können Universitäten ihre freien Ressourcen in unsere Datenbank eintragen und werden benachrichtigt, sobald eines der umliegenden Testlabore diese Ressourcen benötigt. Hierdurch können die Testkapazitäten erweitert werden, sodass Verdachtsfälle schneller getestet werden können.</source>
-        <target>Objettivo di questo sito è di collegare laboratori certificati al test di Corona con universitá, che possono offrire apparecchi, materiale di consumo e anche personale qualificato per l'assistenza al SARS-CoC-2-test. Un universitá puó registrare le proprie risorse nel nostro database e viene avvisata se a un laboratorio certificato nelle vicinanze serve questa risorsa. Cosí le capacitá di test possono essere aumentati. Cosí un caso sospetto puó essere trovato piú velocemente.</target>
+        <target>L'obiettivo di questo sito è di collegare laboratori certificati per test SARS-CoV-2 con universitá che possono offrire apparecchi, materiale di consumo e anche personale qualificato. Per un'universitá é possiblile registrare le proprie risorse nel nostro database. Se un laboratorio certificato nelle vicinanze ne fa richiesta, questo potrá contattare l'universitá tramite il nostro sito. In questo modo il numero di test puó essere aumentato, confermando casi sospetti piú velocemente.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">24</context>
@@ -622,7 +622,7 @@
       </trans-unit>
       <trans-unit id="about_p4" datatype="html">
         <source>Weiter könnte man auch schon bei den Patientenabstrichen und dem Transport der Proben zu den Testlaboren ansetzen und hier mit zusätzlicher Manpower, die von den Universitäten akquiriert wird, dafür sorgen, dass Verdachtsfälle rasch getestet werden können. Hier ist eine enge Zusammenarbeit mit den Gesundheitsämtern vorgesehen.</source>
-        <target/>
+        <target>Prossimi punti sulla nostra lista sono la ricerca di nuovo personale adibito a poter fare tamponi e velocizzare il trasporto di campioni ai laboratori. Con il nuovo personale acquisito dalle universitá si potranno testare casi sospetti molto piú velocemente. Per questi due temi é prevista una stretta collaborazione con il Ministero della Sanitá.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">32</context>
@@ -630,7 +630,7 @@
       </trans-unit>
       <trans-unit id="about_p5" datatype="html">
         <source>Das Tool ist selbstverständlich auch erweiterbar auf sonstige Verbrauchsmaterialien, die an Krankenhäusern und im Rettungsdienst oder der Krankenpflege momentan Mangelware sind (z.B. Handschuhe, Masken, Schutzbrillen, Desinfektionsmittel. Erste Versuche von Spenden von Universitäten an Krankenhäuser laufen hier derzeit sehr unkoordiniert ab) und weitere Manpower im Sinne von Krankenhaus- oder Rettungsdienstpersonal.</source>
-        <target/>
+        <target>Il nostro sito é anche estendibile per la distribuzione centralizzata di materiali di consumo. Momentaneamente guanti in lattice, mascherine, occhiali di protezione e disinfettante sono merce rara per ospedali, servizio di soccorso ed infermieri. Primi tentativi di donazioni da parte di universitá ad ospedali avvengono scoordinatamente. Il collocamento di personale aggiuntivo per ospedali e servizio di soccorso potrebbe anche venire organizzato tramite noi.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">38</context>
@@ -638,7 +638,7 @@
       </trans-unit>
       <trans-unit id="about_p6" datatype="html">
         <source>Zusammenfassend herrscht aktuell das Problem vor, dass Ressourcen in Form von Personal, Geräten und Verbrauchsmaterial vorhanden sind, die an anderer Stelle gebraucht werden, aber kein Austausch zwischen den entsprechenden Stellen stattfindet. Diese Situation wird durch unser Tool erheblich verbessert.</source>
-        <target/>
+        <target>Un grosso problema attuale é che risorse come personale, apparecchi e materiali di consumo non arrivino ad enti che ne hanno estremo bisogno. Al momento lo scambio tra diversi enti non viene coordinato, impedendo importantissime collaborazioni. Con il nostro sito la situazione puó essere considerevolmente migliorata.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">44</context>
@@ -646,7 +646,7 @@
       </trans-unit>
       <trans-unit id="about_whoIsBehindPIRAT" datatype="html">
         <source>Wer steht hinter PIRAT?</source>
-        <target/>
+        <target>Chi c'é dietro PIRAT?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">52</context>
@@ -670,7 +670,7 @@
       </trans-unit>
       <trans-unit id="away" datatype="html">
         <source>entfernt</source>
-        <target>Distanza</target>
+        <target>distante</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">17</context>
@@ -762,7 +762,7 @@
       </trans-unit>
       <trans-unit id="comments" datatype="html">
         <source>Anmerkungen</source>
-        <target>Commento</target>
+        <target>Commenti</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
           <context context-type="linenumber">48</context>
@@ -906,7 +906,7 @@
       </trans-unit>
       <trans-unit id="bd55cf90cf84ba268015a7e0855c7078bf27e6c5" datatype="html">
         <source>Angebotsübersicht</source>
-        <target>Sommario delle offerte</target>
+        <target>Lista delle offerte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">3</context>
@@ -914,7 +914,7 @@
       </trans-unit>
       <trans-unit id="8442c5ce365ba0e84471bd518a57bd49f9b6d966" datatype="html">
         <source>Das Angebot wurde erfasst. Auf dieser Seite können Sie Ihre Daten einsehen. Eine Bestätigung wurde Ihnen auch per Email zugeschickt.</source>
-        <target>L'offerta é stata registrata. Su questo sito puó controllare le sue date. Una conferma le é stato mandato tramitte email.</target>
+        <target>L'offerta é stata registrata. Su questo sito puó controllare i suoi dati. Una conferma Le é stata mandata anche tramite email.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">11</context>
@@ -922,7 +922,7 @@
       </trans-unit>
       <trans-unit id="6f19d93ff5365931225e07b8e959a7e6f25a0180" datatype="html">
         <source>Mit diesem Link kommen Sie auf diese Seite, um Ihr Angebot einsehen zu können. Bitte bewahren Sie ihn auf. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/> Bitte kontaktieren Sie uns via Email mit Angabe dieses Links, um ihr Angebot zu löschen oder zu bearbeiten. </source>
-        <target/>
+        <target>Tramite questo link Le sará possibile, in futuro, rivedere la sua offerta. La preghiamo di conservarlo. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/> Per cambiare o eliminare la Sua offerta La preghiamo di contattarci via email comunicandoci anche questo link. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">17</context>
@@ -963,7 +963,7 @@
       </trans-unit>
       <trans-unit id="_questionExperienceWithPCR" datatype="html">
         <source>Haben Sie Erfahrung in der Durchführung von PCR und Real-Time PCR?</source>
-        <target>Ha esperienza con l' uso di PCR o Real-Time PCR?</target>
+        <target>Ha esperienza nell' uso di PCR o Real-Time PCR?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">105</context>
@@ -975,7 +975,7 @@
       </trans-unit>
       <trans-unit id="comments_s1s" datatype="html">
         <source>Anmerkungen (z.B. S1 oder S2-Unterweisung vorhanden, medizinische Qualifikation zur Abstrichentnahme vorhanden)</source>
-        <target>Commento (ad esempio qualificato al lavoro in laboratorio di sicurezza etc.)</target>
+        <target>Commenti (qualifica per laboratori con livello di biosicurezza 1 e 2, qualilficazione medica per effettuare tamponi, ecc.)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">116</context>
@@ -987,7 +987,7 @@
       </trans-unit>
       <trans-unit id="_declarationVoluntaryWork" datatype="html">
         <source>Hiermit wird bestätigt, dass der Helfer die Tätigkeit ehrenamtlich außerhalb der Arbeitszeiten ausführt.</source>
-        <target>Confermo di aiutare a propriá volontá al fuori dei miei orari di lavoro.</target>
+        <target>Confermo di aiutare in forma di volontariato al fuori dei miei orari di lavoro.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">123</context>
@@ -1019,7 +1019,7 @@
       </trans-unit>
       <trans-unit id="exactName" datatype="html">
         <source>Exakte Materialbezeichnung</source>
-        <target>Descrizione di materiale precisa</target>
+        <target>Denominazione precisa del materiale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">138</context>
@@ -1039,7 +1039,7 @@
       </trans-unit>
       <trans-unit id="helper" datatype="html">
         <source>Helfer</source>
-        <target>Volontario</target>
+        <target>Volontaria/o</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1047,7 +1047,7 @@
       </trans-unit>
       <trans-unit id="qualification" datatype="html">
         <source>Qualifikation</source>
-        <target>Qulificazione</target>
+        <target>Qualificazione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">5</context>
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="piece" datatype="html">
         <source>Stück</source>
-        <target>Pezzi</target>
+        <target>Numero pezzi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">191</context>
@@ -1104,7 +1104,7 @@
       </trans-unit>
       <trans-unit id="_othersMoreInComments" datatype="html">
         <source>Sonstiges (Bitte in den Anmerkungen spezifizieren)</source>
-        <target>Altro (prego specificare in commenti)</target>
+        <target>Altro (da specificare nei commenti)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">193</context>
@@ -1120,7 +1120,7 @@
       </trans-unit>
       <trans-unit id="9862c0fe46a72d8e8defb19e4f8f7e903bbacf7b" datatype="html">
         <source>Vielen Dank für Ihre Nachricht. Sie wurde an den Anbieter übermittelt, er wird sich direkt mit Ihnen in Verbindung setzen.</source>
-        <target>Grazie del messaggio. Verrá inoltrato al fornitore. Verrá contattato direttamente dal fornitore.</target>
+        <target>Grazie del messaggio che verrá inoltrato direttamente all'offerente. L'offerente La contattará direttamente.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
           <context context-type="linenumber">3</context>
@@ -1128,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="1b3806ced266a7d811ee673e3cf92f28d46acdc2" datatype="html">
         <source>Die Kontaktdaten des Anbieters sind nicht öffentlich. Nutzen Sie dieses Kontaktformular, um dem Anbieter eine Nachricht zu hinterlassen.</source>
-        <target>I dati del contatto non sono pubblico. Le preghiamo di usare il modulo di contatto, per lasciare un messaggio.</target>
+        <target>I dati dell'offerente non sono pubblici. La preghiamo di usare il modulo di contatto per lasciare un messaggio.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
           <context context-type="linenumber">7</context>
@@ -1152,7 +1152,7 @@
       </trans-unit>
       <trans-unit id="c81133406fe390838ce1a61fa6f692e2121ffe78" datatype="html">
         <source>Wenn Sie Fragen, Wünsche oder Anregungen haben, freuen wir uns, wenn Sie Kontakt mit uns aufnehmen. Schreiben Sie uns eine Email an <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> oder benutzen Sie das Kontaktformular, wir melden uns schnellstmöglich per E-Mail oder Telefon bei Ihnen! </source>
-        <target>Se ha domande o desideri, siamo contenti del Suo messaggio. Ci puó mandare una mail a <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> o usare il modulo di contatto. Cerchiamo di contattarLe al piú presto possibile tramitte E-mail o telefono! </target>
+        <target>Nel caso ci fossero delle domande, saremmo molto contenti del Suo messaggio. Ci puó mandare una mail a <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> o usare il modulo di contatto. Cercheremo di contattarLa al piú presto tramite email o telefono! </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">11</context>
@@ -1160,7 +1160,7 @@
       </trans-unit>
       <trans-unit id="12b1acff5a98f083a535d1d3c3946d6a885ba1a0" datatype="html">
         <source>Vielen Dank für Ihre Kontaktanfrage, wir werden uns gleich bei Ihnen melden.</source>
-        <target>Grazie per la richiesta. Verrá contattato al piú presto possibile.</target>
+        <target>La ringraziamo per il messaggio. La contatteremo al piú presto possibile.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">18</context>
@@ -1168,7 +1168,7 @@
       </trans-unit>
       <trans-unit id="31867f3fa2c5b318110b602e0ba700190f8cf61f" datatype="html">
         <source>Rückruf anfragen</source>
-        <target>Chiedi un richiamo</target>
+        <target>Vi prego di richiamarmi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">22</context>
@@ -1193,7 +1193,7 @@
       </trans-unit>
       <trans-unit id="8855dc6f5dc587441c6514f584021d59a612161b" datatype="html">
         <source>Hiermit versichere ich, die <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> gelesen zu haben und stimme dieser zu. </source>
-        <target>Confermo di aver letto e confermato la <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <target>Confermo di aver letto e confermato la <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>tutela della privacy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">67</context>
@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="persons" datatype="html">
         <source>Personen</source>
-        <target>Persone</target>
+        <target>Personale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
           <context context-type="linenumber">35</context>
@@ -1241,7 +1241,7 @@
       </trans-unit>
       <trans-unit id="helpers" datatype="html">
         <source>Helfer</source>
-        <target>Volontario</target>
+        <target>Volontaria/o</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/statistics/statistics.component.html</context>
           <context context-type="linenumber">38</context>
@@ -1257,7 +1257,7 @@
       </trans-unit>
       <trans-unit id="a032dadcf6b0ec1981fddde570f5e20550fa09a9" datatype="html">
         <source>Vielen Dank für Ihr Interesse. Wir werden Ihnen eine Email an <x id="INTERPOLATION" equiv-text="{{ data.email }}"/> senden, sobald neue Ressourcen in der Nähe von <x id="INTERPOLATION_1" equiv-text="{{ data.postalCode }}"/> zur Verfügung stehen. </source>
-        <target>Grazie del suo interesse. Le mandiamo una mail a <x id="INTERPOLATION" equiv-text="{{ data.email }}"/> appena sono disponibili nuove risorse nelle vicinanze di <x id="INTERPOLATION_1" equiv-text="{{ data.postalCode }}"/> . </target>
+        <target>Grazie per il suo interessamento. Le inviieremo una mail a <x id="INTERPOLATION" equiv-text="{{ data.email }}"/> appena sono disponibili nuove risorse nelle vicinanze di <x id="INTERPOLATION_1" equiv-text="{{ data.postalCode }}"/> . </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">6</context>
@@ -1265,7 +1265,7 @@
       </trans-unit>
       <trans-unit id="03d54a456dcb4d8ebb60b5bfb292bb82dbeea1bb" datatype="html">
         <source>Sie können sich über das folgende Fomular registrieren. Dann benachrichtigen wir Sie per Email, sobald neue Angebote in Ihrer Umgebung eingestellt wurden.</source>
-        <target>Si puó registrare tramite il seguente modulo. Viene contattato tramite email appena si trovano offerte nelle sue vicinanze.</target>
+        <target>La registrazione é possibile tramite il seguente modulo. La contatteremo via email nonappena troveremo delle offerte nelle Sue vicinanze.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">11</context>
