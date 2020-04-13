@@ -127,12 +127,20 @@
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="searchConsumable" datatype="html">
         <source>Suche nach Verbrauchsmaterial</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="_isExperienceWithPCRRequired" datatype="html">
@@ -294,6 +302,10 @@
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="institution" datatype="html">
         <source>Institution</source>
@@ -324,6 +336,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="requiredField" datatype="html">
@@ -458,6 +474,18 @@
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">49</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="name" datatype="html">
         <source>Name</source>
@@ -481,6 +509,10 @@
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">16</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="emailAddress" datatype="html">
         <source>Email</source>
@@ -500,11 +532,19 @@
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">42</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="71134e1f8e386768460814d4d54b826ea9e1790a" datatype="html">
         <source>Adresse</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
           <context context-type="linenumber">44</context>
         </context-group>
         <note priority="1" from="description">address</note>
@@ -519,6 +559,10 @@
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">81</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="streetNumber" datatype="html">
         <source>Hausnummer</source>
@@ -529,6 +573,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">88</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">51</context>
         </context-group>
       </trans-unit>
       <trans-unit id="postalCode" datatype="html">
@@ -545,6 +593,10 @@
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">37</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="city" datatype="html">
         <source>Stadt</source>
@@ -556,6 +608,10 @@
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">102</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="country" datatype="html">
         <source>Land</source>
@@ -566,6 +622,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">109</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/admin-demand-import/admin-demand-import.component.html</context>
+          <context context-type="linenumber">63</context>
         </context-group>
       </trans-unit>
       <trans-unit id="a2545dec52c46e7c33d943b833b85be0f4ddee2a" datatype="html">
@@ -741,6 +801,19 @@
           <context context-type="linenumber">99</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="noResults" datatype="html">
+        <source>
+    Keine Ergebnisse gefunden
+  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/offer-search-result-list/offer-search-result-list.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search-result/need-search-result.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="location" datatype="html">
         <source>Standort:</source>
         <context-group purpose="location">
@@ -882,6 +955,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">164</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="orderOrSerialNumber" datatype="html">
@@ -1162,6 +1239,14 @@
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">142</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="exactName" datatype="html">
         <source>
@@ -1182,6 +1267,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">156</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="b738e3c7812a502178ddfe0f4b8b0fda9efd4520" datatype="html">
@@ -1553,6 +1642,76 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="needs" datatype="html">
+        <source>Benötigte Ressourcen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="minAmount" datatype="html">
+        <source>
+                        Mindestmenge
+                    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="maxAmount" datatype="html">
+        <source>
+                        Maximale Menge
+                    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="searchNotes" datatype="html">
+        <source>
+                        Anmerkungen durchsuchen
+                    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="resetFilter" datatype="html">
+        <source>Filter zurücksetzen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search/need-search.component.html</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="searchResults" datatype="html">
+        <source>Suchergebnisse</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search-result/need-search-result.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="makeContact" datatype="html">
+        <source>Kontakt aufnehmen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search-result/need-search-result.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search-result/need-search-result.component.html</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="close" datatype="html">
+        <source>schließen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search-result/need-search-result.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/need-search-result/need-search-result.component.html</context>
+          <context context-type="linenumber">83</context>
         </context-group>
       </trans-unit>
     </body>
