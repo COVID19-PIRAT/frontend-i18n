@@ -221,7 +221,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="postalCodeOfLocation" datatype="html">
-        <source>Postleitzahl des Standortes</source>
+        <source>Postalcode of locations</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search/offer-search.component.html</context>
           <context context-type="linenumber">106</context>
@@ -655,7 +655,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="resources" datatype="html">
-        <source>Ressourcen</source>
+        <source>Resources</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">86</context>
@@ -671,14 +671,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="addPersonal" datatype="html">
-        <source>Personal hinzufügen</source>
+        <source>Add staff</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">93</context>
         </context-group>
       </trans-unit>
       <trans-unit id="addDevice" datatype="html">
-        <source>Add staff</source>
+        <source>Add device</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context>
           <context context-type="linenumber">94</context>
@@ -691,8 +691,8 @@
           <context context-type="linenumber">95</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="f31444abf1e07cf021f4c787d6c2d6f048018896" datatype="html">
-        <source>Über uns &amp; PIRAT</source>
+      <trans-unit id="8f79f7f650f06ed66ce8accd658f991d2e4429c1" datatype="html">
+        <source>About Us &amp; PIRAT</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/about/about.component.html</context>
           <context context-type="linenumber">3</context>
@@ -1422,28 +1422,28 @@
         <note priority="1" from="description">comments</note>
       </trans-unit>
       <trans-unit id="selectUnit" datatype="html">
-        <source>Einheit auswählen</source>
+        <source>Select unit</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">190</context>
         </context-group>
       </trans-unit>
       <trans-unit id="piece" datatype="html">
-        <source>Stück</source>
+        <source>Piece</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">191</context>
         </context-group>
       </trans-unit>
       <trans-unit id="pack" datatype="html">
-        <source>Packung</source>
+        <source>Pack</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">192</context>
         </context-group>
       </trans-unit>
       <trans-unit id="_othersMoreInComments" datatype="html">
-        <source>Sonstiges (Bitte in den Comments spezifizieren)</source>
+        <source>Others (Please specify in comments)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">193</context>
