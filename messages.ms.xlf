@@ -797,7 +797,7 @@
         </context-group>
       </trans-unit><trans-unit id="offer-change__deleteNoOffer" datatype="html">
         <source>
-              🗑️ Delete: Resource has been allocated by other means
+              🗑️ Delete: Resource should not appear anymore.
             </source><target state="new">
               🗑️ Delete: Resource has been allocated by other means
             </target>
