@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="1ea55a60787bf1c71e30b3d4832d6e99e0397575" datatype="html">
         <source>💾️ Decrease quantity: Resource has been allocated by other means.</source>
-        <target state="translated">💾️Уменьшить количество: ресурс был распределен другими средствами</target>
+        <target state="translated">💾️ Уменьшить количество: ресурс был распределен другими средствами.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">426</context>
