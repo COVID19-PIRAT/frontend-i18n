@@ -3,8 +3,8 @@
   <file source-language="de" datatype="plaintext" original="ng2.template" target-language="de">
     <body>
       <trans-unit id="e68883b82a727845760a93a3b16fbcc16361c090" datatype="html">
-        <source>Pandemic Important Resource<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Allocation Tool</source>
-        <target state="final">Pandemic Important Resource<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Allocation Tool</target>
+        <source>Pandemic Important Resource<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Allocation Tool</source>
+        <target state="final">Pandemic Important Resource<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Allocation Tool</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">3</context>
@@ -66,10 +66,10 @@
       <trans-unit id="69df45e8d86249b0e514b73b3b5dad2dc03b0929" datatype="html">
         <source>With our platform, universities and research institutions can provider currently
           unused resources - equipment, consumables, and personnel. These can then be requested by corona test labs
-          to increase the test capacities. All relevant information can be found on the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>FAQ
-            page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>.
+          to increase the test capacities. All relevant information can be found on the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ
+            page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.
         </source>
-        <target state="translated">Über unsere Seite können Universitäten und Forschungseinrichtungen ihre derzeit ungenutzten Ressourcen in Form von Geräten, Verbrauchsmaterial und Personal anbieten, die dann von Corona-Testlaboren angefragt und zur Erhöhung der Testkapazitäten genutzt werden können. Alle wichtigen Informationen finden Sie auf der <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>FAQ Seite<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. </target>
+        <target state="translated">Über unsere Seite können Universitäten und Forschungseinrichtungen ihre derzeit ungenutzten Ressourcen in Form von Geräten, Verbrauchsmaterial und Personal anbieten, die dann von Corona-Testlaboren angefragt und zur Erhöhung der Testkapazitäten genutzt werden können. Alle wichtigen Informationen finden Sie auf der <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ Seite<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">19</context>
@@ -78,10 +78,10 @@
       <trans-unit id="762ad7d0710beb7d9483718dfb78727ee641f8a1" datatype="html">
         <source>
           You can also message us your demand. Please send us a list with the needed resources to
-          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> and we will notify you as soon as offers are
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and we will notify you as soon as offers are
           available.
         </source>
-        <target state="translated">Gerne können Sie auch Ihren Bedarf bei uns melden. Schicken Sie uns dafür eine Liste der benötigten Ressourcen an <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> und wir melden uns bei Ihnen, sobald passende Angebote vorliegen. </target>
+        <target state="translated">Gerne können Sie auch Ihren Bedarf bei uns melden. Schicken Sie uns dafür eine Liste der benötigten Ressourcen an <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> und wir melden uns bei Ihnen, sobald passende Angebote vorliegen. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">24</context>
@@ -262,10 +262,10 @@
       </trans-unit>
       <trans-unit id="_agreeingToPrivacyPolicy" datatype="html">
         <source>
-      I hereby affirm that I have read the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Privacy Policy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+      I hereby affirm that I have read the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Privacy Policy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
       and that I agree to it.
     </source>
-        <target state="translated">Hiermit versichere ich, die <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> gelesen zu haben und stimme dieser zu. </target>
+        <target state="translated">Hiermit versichere ich, die <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Datenschutzerklärung<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> gelesen zu haben und stimme dieser zu. </target>
         <context-group purpose="location"><context context-type="sourcefile">src/app/offer-form/offer-form.component.html</context><context context-type="linenumber">62</context></context-group>
         <context-group purpose="location"><context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context><context context-type="linenumber">65</context></context-group>
         <context-group purpose="location"><context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context><context context-type="linenumber">44</context></context-group>
@@ -613,10 +613,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="offer-change__deleteNoOffer" datatype="html">
-        <source>
-              🗑️ Delete: Resource should not appear anymore.
-            </source>
-        <target state="translated">🗑️ Löschen: Die Ressource soll nicht mehr angeboten werden</target>
+        <source>🗑️ Delete: Resource should not appear anymore.</source>
+        <target state="translated">🗑️ Löschen: Die Ressource soll nicht mehr angeboten werden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context>
           <context context-type="linenumber">187</context>
@@ -946,8 +944,8 @@
         <context-group purpose="location"><context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context><context context-type="linenumber">47</context></context-group>
       </trans-unit>
       <trans-unit id="353c3a77982d94b67c0c3d8d8d450d5553b590b4" datatype="html">
-        <source>If you have any questions, requests or suggestions, please contact us. Send us an email to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or use the contact form, we will get back to you as soon as possible by email or phone! </source>
-        <target state="translated">Wenn Sie Fragen, Wünsche oder Anregungen haben, freuen wir uns, wenn Sie Kontakt mit uns aufnehmen. Schreiben Sie uns eine Email an <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> oder benutzen Sie das Kontaktformular, wir melden uns schnellstmöglich per E-Mail oder Telefon bei Ihnen! </target>
+        <source>If you have any questions, requests or suggestions, please contact us. Send us an email to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> or use the contact form, we will get back to you as soon as possible by email or phone! </source>
+        <target state="translated">Wenn Sie Fragen, Wünsche oder Anregungen haben, freuen wir uns, wenn Sie Kontakt mit uns aufnehmen. Schreiben Sie uns eine Email an <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> oder benutzen Sie das Kontaktformular, wir melden uns schnellstmöglich per E-Mail oder Telefon bei Ihnen! </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">11</context>
