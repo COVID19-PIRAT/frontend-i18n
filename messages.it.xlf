@@ -40,32 +40,16 @@
         </context-group>
       </trans-unit>
       <trans-unit id="69df45e8d86249b0e514b73b3b5dad2dc03b0929" datatype="html">
-        <source>With our platform, universities and research institutions can provider currently
-          unused resources - equipment, consumables, and personnel. These can then be requested by corona test labs
-          to increase the test capacities. All relevant information can be found on the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ
-            page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.
-        </source>
-        <target state="new">With our platform, universities and research institutions can provider currently
-          unused resources - equipment, consumables, and personnel. These can then be requested by corona test labs
-          to increase the test capacities. All relevant information can be found on the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ
-            page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.
-        </target>
+        <source>With our platform, universities and research institutions can provider currently unused resources - equipment, consumables, and personnel. These can then be requested by corona test labs to increase the test capacities. All relevant information can be found on the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">Sul nostro sito, universitá e centri di ricerca possono offrire risorse (termociclatori, mascherine, guanti usa e getta etc.) o personale. Queste risorse possono essere richieste da laboratori certificati che fanno tamponi per il COVID-19 per aumentare la loro capacitá. Ulteriori informazioni su <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="762ad7d0710beb7d9483718dfb78727ee641f8a1" datatype="html">
-        <source>
-          You can also message us your demand. Please send us a list with the needed resources to
-          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and we will notify you as soon as offers are
-          available.
-        </source>
-        <target state="new">
-          You can also message us your demand. Please send us a list with the needed resources to
-          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and we will notify you as soon as offers are
-          available.
-        </target>
+        <source>You can also message us your demand. Please send us a list with the needed resources to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and we will notify you as soon as offers are available. </source>
+        <target state="translated">In caso di necessitá é anche possibile farci reperire una lista del genere cercato. Mandaci una email all'indirzzo <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> e Vi faremo sapere il primo possibile. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">24</context>
@@ -73,7 +57,7 @@
       </trans-unit>
       <trans-unit id="home__sendDemand" datatype="html">
         <source>Send Demand</source>
-        <target state="new">Send Demand</target>
+        <target state="translated">Invia necessitá</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">31</context>
@@ -845,24 +829,16 @@
         </context-group>
       </trans-unit>
       <trans-unit id="areaOfExpertise" datatype="html">
-        <source>
-      Area of Expertise
-    </source>
-        <target state="new">
-      Area of Expertise
-    </target>
+        <source>Area of Expertise</source>
+        <target state="translated">Campo scientifico</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context>
           <context context-type="linenumber">33</context>
         </context-group>
       </trans-unit>
       <trans-unit id="comments_labSafety" datatype="html">
-        <source>
-      Comments (e.g. familiar and experienced with lab safety, medical qualification for swab collection available)
-    </source>
-        <target state="new">
-      Comments (e.g. familiar and experienced with lab safety, medical qualification for swab collection available)
-    </target>
+        <source>Comments (e.g. familiar and experienced with lab safety, medical qualification for swab collection available)</source>
+        <target state="translated">Commenti (es. esperienza di lavoro a livello di biosicurezza 1 o 2, qualificazione medica a prendere tamponi etc.)</target>
         <context-group purpose="location"><context context-type="sourcefile">src/app/offer-change/offer-change.component.html</context><context context-type="linenumber">159</context></context-group>
         <context-group purpose="location"><context context-type="sourcefile">src/app/offer-form-resource-block/offer-form-resource-block.component.html</context><context context-type="linenumber">58</context></context-group>
       </trans-unit>
@@ -894,7 +870,7 @@
       </trans-unit>
       <trans-unit id="bb05bdff59cfd7df28c45f578abfa8cb80fcf015" datatype="html">
         <source>Contact the offerer</source>
-        <target state="new">Contact the offerer</target>
+        <target state="translated">Contatta l'offerente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/offer-search-contact-form/offer-search-contact-form.component.html</context>
           <context context-type="linenumber">2</context>
@@ -967,7 +943,7 @@
       </trans-unit>
       <trans-unit id="d8da42781225d5f973a1b6b27fdbf421bf1d6685" datatype="html">
         <source>Question specific to COVID-19 testing</source>
-        <target state="new">Question specific to COVID-19 testing</target>
+        <target state="translated">Domanda specifica al test di COVID-19</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">50</context>
@@ -983,7 +959,7 @@
       </trans-unit>
       <trans-unit id="6443bfff50e3aecb5c0a5039a957ef663431ff57" datatype="html">
         <source>Type your questions here</source>
-        <target state="new">Type your questions here</target>
+        <target state="translated">Inserisci domanda qui</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context>
           <context context-type="linenumber">59</context>
@@ -1026,7 +1002,7 @@
       </trans-unit>
       <trans-unit id="5bf0f177d93614e8cd946934202ba7babca40092" datatype="html">
         <source>Couldn't find the needed resource?</source>
-        <target state="new">Couldn't find the needed resource?</target>
+        <target state="translated">Non ha trovato la risorsa cercata?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region-subscription-form/region-subscription-form.component.html</context>
           <context context-type="linenumber">4</context>
