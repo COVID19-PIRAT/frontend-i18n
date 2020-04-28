@@ -6,18 +6,6 @@
         <source>Device</source>
         <target state="translated">Device</target>
       </trans-unit>
-      <ns0:trans-unit xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" xml:space="preserve" id="item-labels.resourceType__consumable" approved="no"><ns0:source>item-labels.resourceType__consumable</ns0:source>
-        <ns0:target state="translated">consumable</ns0:target>
-      </ns0:trans-unit>
-      <ns0:trans-unit xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" xml:space="preserve" id="item-labels.resourceType__staff" approved="no"><ns0:source>item-labels.resourceType__staff</ns0:source>
-        <ns0:target state="translated">Staff</ns0:target>
-      </ns0:trans-unit>
-      <ns0:trans-unit xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" xml:space="preserve" id="item-labels.resourceType__staff" approved="no"><ns0:source>item-labels.resourceType__staff</ns0:source>
-        <ns0:target state="translated">Staff</ns0:target>
-      </ns0:trans-unit>
-      <ns0:trans-unit xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" xml:space="preserve" id="test" approved="no"><ns0:source>test</ns0:source>
-        <ns0:target state="translated">test</ns0:target>
-      </ns0:trans-unit>
     </body>
   </file>
 </xliff>
