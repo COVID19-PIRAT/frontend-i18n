@@ -6,6 +6,14 @@
         <source>Device</source>
         <target state="translated">Gerät</target>
       </trans-unit>
+      <trans-unit id="item-labels.resourceType__consumable" datatype="html">
+        <source>Consumable</source>
+        <target state="new"></target>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceType__staff" datatype="html">
+        <source>Staff</source>
+        <target state="new"></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
