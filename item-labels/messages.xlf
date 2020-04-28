@@ -11,6 +11,123 @@
       <trans-unit id="item-labels.resourceType__staff" datatype="html">
         <source>Staff</source>
       </trans-unit>
+      <trans-unit id="item-labels.resourceItem__N95_MASK" datatype="html">
+        <source>N95 mask</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__MASK" datatype="html">
+        <source>Face mask</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__PROTECTIVE_SUIT" datatype="html">
+        <source>Protective suit</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__SAFETY_GOOGLE" datatype="html">
+        <source>Safety goggle</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__GLOVE" datatype="html">
+        <source>Glove</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__DESINFECTANT" datatype="html">
+        <source>Disinfectant</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__REACTION_TUBE" datatype="html">
+        <source>Reaction tube</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__READOUTPLATE" datatype="html">
+        <source>Readoutplate</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__PIPETTE_TIP" datatype="html">
+        <source>Pipette tip</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__PCR_TUBE_RACK" datatype="html">
+        <source>PCR tube rack</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__PCR_REACTION_PLATE" datatype="html">
+        <source>PCR reaction plate</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__MICROCENTRIFUGE_TUBE" datatype="html">
+        <source>Microcentrifuge tube (1-2 ml)</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__CENTRIFUGE_TUBE" datatype="html">
+        <source>Centrifuge tubes (15&50 ml)</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__OTHERS" datatype="html">
+        <source>Others</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__PCR_THERMAL_CYCLER" datatype="html">
+        <source>PCR thermal cycler</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__RT_PCR_THERMAL_CYCLER" datatype="html">
+        <source>Real-Time PCR  thermal cycler</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__CENTRIFUGE" datatype="html">
+        <source>Centrifuge</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__VORTEX_MIXING_DEVICE" datatype="html">
+        <source>Vortex mixing device</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__PIPETTE" datatype="html">
+        <source>Pipette</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__MULTICHANNEL_PIPETTE" datatype="html">
+        <source>Multichannel Pipette</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__CHEMISTRY" datatype="html">
+        <source>Chemistry</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__BIOCHEMISTRY" datatype="html">
+        <source>Biochemistry</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__GENETICS" datatype="html">
+        <source>Genetics</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__CELL_BIOLOGY" datatype="html">
+        <source>Cell biology</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__BIOLOGY" datatype="html">
+        <source>Biology</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__VIROLOGY" datatype="html">
+        <source>Virology</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__MICRO_BIOLOGY" datatype="html">
+        <source>Microbiology</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__MOLECULAR_BIOLOGY" datatype="html">
+        <source>Molecular biology</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__PHARMACOLOGY" datatype="html">
+        <source>Pharmacology</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__MEDICINE" datatype="html">
+        <source>Medicine</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__DOCTOR" datatype="html">
+        <source>Doctor</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__NURSE" datatype="html">
+        <source>Nurse</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__TECHNICAL_ASSISTANT" datatype="html">
+        <source>Technical assistant</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__LAB_ASSISTANT" datatype="html">
+        <source>Lab assistant</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__PHARMACIST" datatype="html">
+        <source>Pharmacist</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__POSTDOC" datatype="html">
+        <source>Postdoc</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__PHD_STUDENT" datatype="html">
+        <source>PhD Student</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__MSC_STUDENT" datatype="html">
+        <source>MSc Student</source>
+      </trans-unit>
+      <trans-unit id="item-labels.resourceItem__BSC_STUDENT" datatype="html">
+        <source>BSc Studen</source>
+      </trans-unit>
     </body>
   </file>
 </xliff>
