@@ -170,6 +170,42 @@
         <source>BSc Student</source>
         <target state="translated">BSc Student</target>
       </trans-unit>
+      <trans-unit id="item-labels.region__AUSTRIA" datatype="html">
+        <source>Austria</source>
+        <target state="translated">Austria</target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__GERMANY" datatype="html">
+        <source>Germany</source>
+        <target state="translated">Germany</target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__EGYPT" datatype="html">
+        <source>Egypt</source>
+        <target state="translated">Egypt</target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__FRANCE" datatype="html">
+        <source>France</source>
+        <target state="translated">France</target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__ITALY" datatype="html">
+        <source>Italy</source>
+        <target state="translated">Italy</target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__MALAYSIA" datatype="html">
+        <source>Malaysia</source>
+        <target state="translated">Malaysia</target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__RUSSIA" datatype="html">
+        <source>Russia</source>
+        <target state="translated">Russia</target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__SPAIN" datatype="html">
+        <source>Spain</source>
+        <target state="translated">Spain</target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__HUNGARY" datatype="html">
+        <source>Hungary</source>
+        <target state="translated">Hungary</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

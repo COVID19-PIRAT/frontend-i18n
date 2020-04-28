@@ -128,6 +128,33 @@
       <trans-unit id="item-labels.resourceItem__BSC_STUDENT" datatype="html">
         <source>BSc Student</source>
       </trans-unit>
+      <trans-unit id="item-labels.region__AUSTRIA" datatype="html">
+        <source>Austria</source>
+      </trans-unit>
+      <trans-unit id="item-labels.region__GERMANY" datatype="html">
+        <source>Germany</source>
+      </trans-unit>
+      <trans-unit id="item-labels.region__EGYPT" datatype="html">
+        <source>Egypt</source>
+      </trans-unit>
+      <trans-unit id="item-labels.region__FRANCE" datatype="html">
+        <source>France</source>
+      </trans-unit>
+      <trans-unit id="item-labels.region__ITALY" datatype="html">
+        <source>Italy</source>
+      </trans-unit>
+      <trans-unit id="item-labels.region__MALAYSIA" datatype="html">
+        <source>Malaysia</source>
+      </trans-unit>
+      <trans-unit id="item-labels.region__RUSSIA" datatype="html">
+        <source>Russia</source>
+      </trans-unit>
+      <trans-unit id="item-labels.region__SPAIN" datatype="html">
+        <source>Spain</source>
+      </trans-unit>
+      <trans-unit id="item-labels.region__HUNGARY" datatype="html">
+        <source>Hungary</source>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -170,6 +170,42 @@
         <source>BSc Student</source>
         <target state="new"></target>
       </trans-unit>
+      <trans-unit id="item-labels.region__AUSTRIA" datatype="html">
+        <source>Austria</source>
+        <target state="new"></target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__GERMANY" datatype="html">
+        <source>Germany</source>
+        <target state="new"></target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__EGYPT" datatype="html">
+        <source>Egypt</source>
+        <target state="new"></target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__FRANCE" datatype="html">
+        <source>France</source>
+        <target state="new"></target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__ITALY" datatype="html">
+        <source>Italy</source>
+        <target state="new"></target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__MALAYSIA" datatype="html">
+        <source>Malaysia</source>
+        <target state="new"></target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__RUSSIA" datatype="html">
+        <source>Russia</source>
+        <target state="new"></target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__SPAIN" datatype="html">
+        <source>Spain</source>
+        <target state="new"></target>
+      </trans-unit>
+      <trans-unit id="item-labels.region__HUNGARY" datatype="html">
+        <source>Hungary</source>
+        <target state="new"></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
