@@ -5,9 +5,6 @@
       <trans-unit id="item-labels.resourceType__device" datatype="html">
         <source>Device</source>
       </trans-unit>
-      <trans-unit id="item-labels.resourceType__consumable" datatype="html">
-        <source>Consumable</source>
-      </trans-unit>
     </body>
   </file>
 </xliff>
