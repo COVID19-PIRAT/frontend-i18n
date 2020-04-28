@@ -63,8 +63,8 @@
         <target state="translated">Microcentrifuge tube (1-2 ml)</target>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__CENTRIFUGE_TUBE" datatype="html">
-        <source>Centrifuge tubes (15&50 ml)</source>
-        <target state="translated">Centrifuge tubes (15&50 ml)</target>
+        <source>Centrifuge tubes (15&amp;50 ml)</source>
+        <target state="translated">Centrifuge tubes (15&amp;50 ml)</target>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__OTHERS" datatype="html">
         <source>Others</source>

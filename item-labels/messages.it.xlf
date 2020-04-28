@@ -63,7 +63,7 @@
         <target state="new"></target>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__CENTRIFUGE_TUBE" datatype="html">
-        <source>Centrifuge tubes (15&50 ml)</source>
+        <source>Centrifuge tubes (15&amp;50 ml)</source>
         <target state="new"></target>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__OTHERS" datatype="html">
