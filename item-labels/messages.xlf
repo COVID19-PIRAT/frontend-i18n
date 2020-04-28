@@ -126,7 +126,7 @@
         <source>MSc Student</source>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__BSC_STUDENT" datatype="html">
-        <source>BSc Studen</source>
+        <source>BSc Student</source>
       </trans-unit>
     </body>
   </file>

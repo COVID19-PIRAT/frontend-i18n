@@ -167,8 +167,8 @@
         <target state="translated">MSc Student</target>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__BSC_STUDENT" datatype="html">
-        <source>BSc Studen</source>
-        <target state="translated">BSc Studen</target>
+        <source>BSc Student</source>
+        <target state="translated">BSc Student</target>
       </trans-unit>
     </body>
   </file>

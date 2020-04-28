@@ -167,7 +167,7 @@
         <target state="new"></target>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__BSC_STUDENT" datatype="html">
-        <source>BSc Studen</source>
+        <source>BSc Student</source>
         <target state="new"></target>
       </trans-unit>
     </body>
