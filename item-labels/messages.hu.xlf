@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="hu">
+  <file source-language="en" datatype="plaintext" target-language="hu">
     <body>
       <trans-unit id="item-labels.resourceType__device" datatype="html">
         <source>Device</source>
