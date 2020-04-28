@@ -272,8 +272,8 @@
       </trans-unit>
       <trans-unit id="home__p1" datatype="html">
         <source>
-    With our platform, universities and research institutions can provider currently
-    unused resources - equipment, consumables, and personnel. These can then be requested by corona test labs
+    With our platform, universities and research institutions can provide currently
+    unused resources - equipment, consumables, and personnel. These can then be requested by COVID-19 test labs
     to increase the test capacities. All relevant information can be found on the
     <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.
   </source>

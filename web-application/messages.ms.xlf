@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="ngb.alert.close" datatype="html">
         <source>Close</source>
-        <target state="translated"></target>
+        <target state="translated"/>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.d.ts</context>
           <context context-type="linenumber">3</context>
@@ -288,21 +288,21 @@
       </trans-unit>
       <trans-unit id="home__p1" datatype="html">
         <source>
-    With our platform, universities and research institutions can provider currently
-    unused resources - equipment, consumables, and personnel. These can then be requested by corona test labs
+    With our platform, universities and research institutions can provide currently
+    unused resources - equipment, consumables, and personnel. These can then be requested by COVID-19 test labs
     to increase the test capacities. All relevant information can be found on the
-    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.
+    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>FAQ page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>.
   </source>
-        <target state="new">With our platform, universities and research institutions can provider currently unused resources - equipment, consumables, and personnel. These can then be requested by corona test labs to increase the test capacities. All relevant information can be found on the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>FAQ page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <target state="new">With our platform, universities and research institutions can provider currently unused resources - equipment, consumables, and personnel. These can then be requested by corona test labs to increase the test capacities. All relevant information can be found on the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>FAQ page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. </target>
         <context-group purpose="location"><context context-type="sourcefile">src/app/home/home.component.html</context><context context-type="linenumber">13</context></context-group>
       </trans-unit>
       <trans-unit id="home__p2" datatype="html">
         <source>
     You can also message us your demand. Please send us a list with the needed resources to
-    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and we will notify you as soon as offers are
+    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> and we will notify you as soon as offers are
     available.
   </source>
-        <target state="new">You can also message us your demand. Please send us a list with the needed resources to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and we will notify you as soon as offers are available. </target>
+        <target state="new">You can also message us your demand. Please send us a list with the needed resources to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> and we will notify you as soon as offers are available. </target>
         <context-group purpose="location"><context context-type="sourcefile">src/app/home/home.component.html</context><context context-type="linenumber">19</context></context-group>
       </trans-unit>
       <trans-unit id="home__sendDemand" datatype="html">
@@ -567,8 +567,8 @@
       </trans-unit>
       <trans-unit id="_agreeingToPrivacyPolicy" datatype="html">
         <source>
-        I hereby affirm that I have read the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>
-        Privacy Policy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+        I hereby affirm that I have read the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+        Privacy Policy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
         and that I agree to it.
       </source>
         <target state="translated"/>
@@ -1118,10 +1118,10 @@
       </trans-unit>
       <trans-unit id="contact-page__p1" datatype="html">
         <source>
-    If you have any questions, requests or suggestions, please contact us. Send us an email to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> or use the contact form, we will get back to you as soon
+    If you have any questions, requests or suggestions, please contact us. Send us an email to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or use the contact form, we will get back to you as soon
     as possible by email or phone!
   </source>
-        <target state="new">If you have any questions, requests or suggestions, please contact us. Send us an email to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> or use the contact form, we will get back to you as soon as possible by email or phone! </target>
+        <target state="new">If you have any questions, requests or suggestions, please contact us. Send us an email to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>mail@pirat-tool.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or use the contact form, we will get back to you as soon as possible by email or phone! </target>
         <context-group purpose="location"><context context-type="sourcefile">src/app/contact-page/contact-page.component.html</context><context context-type="linenumber">6</context></context-group>
       </trans-unit>
       <trans-unit id="contact-page__thanks" datatype="html">
