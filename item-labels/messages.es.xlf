@@ -4,207 +4,207 @@
     <body>
       <trans-unit id="item-labels.resourceType__device" datatype="html">
         <source>Device</source>
-        <target state="translated"></target>
+        <target state="translated">Dispositivo</target>
       </trans-unit>
       <trans-unit id="item-labels.resourceType__consumable" datatype="html">
         <source>Consumable</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceType__staff" datatype="html">
         <source>Staff</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__N95_MASK" datatype="html">
         <source>N95 mask</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__MASK" datatype="html">
         <source>Face mask</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__PROTECTIVE_SUIT" datatype="html">
         <source>Protective suit</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__SAFETY_GOOGLE" datatype="html">
         <source>Safety goggle</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__GLOVE" datatype="html">
         <source>Glove</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__DESINFECTANT" datatype="html">
         <source>Disinfectant</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__REACTION_TUBE" datatype="html">
         <source>Reaction tube</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__READOUTPLATE" datatype="html">
         <source>Readoutplate</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__PIPETTE_TIP" datatype="html">
         <source>Pipette tip</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__PCR_TUBE_RACK" datatype="html">
         <source>PCR tube rack</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__PCR_REACTION_PLATE" datatype="html">
         <source>PCR reaction plate</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__MICROCENTRIFUGE_TUBE" datatype="html">
         <source>Microcentrifuge tube (1-2 ml)</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__CENTRIFUGE_TUBE" datatype="html">
         <source>Centrifuge tubes (15&amp;50 ml)</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__OTHERS" datatype="html">
         <source>Others</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__PCR_THERMAL_CYCLER" datatype="html">
         <source>PCR thermal cycler</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__RT_PCR_THERMAL_CYCLER" datatype="html">
         <source>Real-Time PCR  thermal cycler</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__CENTRIFUGE" datatype="html">
         <source>Centrifuge</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__VORTEX_MIXING_DEVICE" datatype="html">
         <source>Vortex mixing device</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__PIPETTE" datatype="html">
         <source>Pipette</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__MULTICHANNEL_PIPETTE" datatype="html">
         <source>Multichannel Pipette</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__CHEMISTRY" datatype="html">
         <source>Chemistry</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__BIOCHEMISTRY" datatype="html">
         <source>Biochemistry</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__GENETICS" datatype="html">
         <source>Genetics</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__CELL_BIOLOGY" datatype="html">
         <source>Cell biology</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__BIOLOGY" datatype="html">
         <source>Biology</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__VIROLOGY" datatype="html">
         <source>Virology</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__MICRO_BIOLOGY" datatype="html">
         <source>Microbiology</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__MOLECULAR_BIOLOGY" datatype="html">
         <source>Molecular biology</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__PHARMACOLOGY" datatype="html">
         <source>Pharmacology</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__MEDICINE" datatype="html">
         <source>Medicine</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__DOCTOR" datatype="html">
         <source>Doctor</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__NURSE" datatype="html">
         <source>Nurse</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__TECHNICAL_ASSISTANT" datatype="html">
         <source>Technical assistant</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__LAB_ASSISTANT" datatype="html">
         <source>Lab assistant</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__PHARMACIST" datatype="html">
         <source>Pharmacist</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__POSTDOC" datatype="html">
         <source>Postdoc</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__PHD_STUDENT" datatype="html">
         <source>PhD Student</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__MSC_STUDENT" datatype="html">
         <source>MSc Student</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.resourceItem__BSC_STUDENT" datatype="html">
         <source>BSc Student</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.region__AUSTRIA" datatype="html">
         <source>Austria</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.region__GERMANY" datatype="html">
         <source>Germany</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.region__EGYPT" datatype="html">
         <source>Egypt</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.region__FRANCE" datatype="html">
         <source>France</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.region__ITALY" datatype="html">
         <source>Italy</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.region__MALAYSIA" datatype="html">
         <source>Malaysia</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.region__RUSSIA" datatype="html">
         <source>Russia</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.region__SPAIN" datatype="html">
         <source>Spain</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="item-labels.region__HUNGARY" datatype="html">
         <source>Hungary</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
     </body>
   </file>
